@@ -21,7 +21,7 @@ public class SafePassages {
             "select school_nam from safepassages";
 
     private static final String SELECT_DEPOSITORIES =
-            "select * from depositories";
+                "select name, streetaddress, st_x(geom), st_y(geom), city, zip, state, isschool, hasbreakfast, haslunch, hassupper, haspmsnack from depositories";
 
     public List<String> getSchoolNames()  {
         try {
@@ -55,6 +55,17 @@ public class SafePassages {
                 Depository depo = new Depository();
 
                 depo.setName(rs.getString("name"));
+                depo.setAddress(rs.getString("streetaddress"));
+                depo.setCity(rs.getString("city"));
+                depo.setxCoordinate(rs.getDouble("st_x"));
+                depo.setyCoordinate(rs.getDouble("st_y"));
+                depo.setZip(rs.getString("zip"));
+                depo.setState(rs.getString("state"));
+                depo.setSchool(rs.getInt("isschool") == 1);
+                depo.setLunch(rs.getInt("hasLunch") == 1);
+                depo.setPmSnack(rs.getInt("haspmsnack") == 1);
+                depo.setBreakfast(rs.getInt("hasbreakfast") == 1);
+                depo.setSupper(rs.getInt("hassupper") == 1);
 
                 depositories.add(depo);
             }
@@ -67,5 +78,7 @@ public class SafePassages {
             throw new RuntimeException(se);
         }
     }
+
+
 
 }

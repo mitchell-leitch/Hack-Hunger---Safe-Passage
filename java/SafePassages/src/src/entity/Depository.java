@@ -13,6 +13,51 @@ public class Depository {
     private boolean lunch;
     private boolean supper;
     private boolean pmSnack;
+    private String city;
+    private String zip;
+    private String state;
+    private double xCoordinate;
+    private double yCoordinate;
+
+    public double getxCoordinate() {
+        return xCoordinate;
+    }
+
+    public void setxCoordinate(double xCoordinate) {
+        this.xCoordinate = xCoordinate;
+    }
+
+    public double getyCoordinate() {
+        return yCoordinate;
+    }
+
+    public void setyCoordinate(double yCoordinate) {
+        this.yCoordinate = yCoordinate;
+    }
+
+    public String getCity() {
+        return city;
+    }
+
+    public void setCity(String city) {
+        this.city = city;
+    }
+
+    public String getZip() {
+        return zip;
+    }
+
+    public void setZip(String zip) {
+        this.zip = zip;
+    }
+
+    public String getState() {
+        return state;
+    }
+
+    public void setState(String state) {
+        this.state = state;
+    }
 
     public String getName() {
         return name;
@@ -81,6 +126,17 @@ public class Depository {
     public JSONObject asJsonObject(){
         JSONObject jObject = new JSONObject();
         jObject.put("name", getName());
+        jObject.put("city", getCity());
+        jObject.put("address", getAddress());
+        jObject.put("xCoordinate", getxCoordinate());
+        jObject.put("yCoordinate", getyCoordinate());
+        jObject.put("state", getState());
+        jObject.put("zip", getZip());
+        jObject.put("hasSupper", isSupper());
+        jObject.put("hasPmSnack", isPmSnack());
+        jObject.put("hasLunch", isLunch());
+        jObject.put("isSchool", isSchool());
+        jObject.put("hasBreakfast", isBreakfast());
         return jObject;
     }
 }
