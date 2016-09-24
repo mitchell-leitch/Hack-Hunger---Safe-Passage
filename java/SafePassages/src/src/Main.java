@@ -11,6 +11,7 @@ import java.util.Properties;
 
 import org.eclipse.jetty.server.Server;
 import web.DepositoryHandler;
+import web.MetricedDepositoryHandler;
 import web.NearbyRepositoriesHandler;
 import web.SchoolNameHandler;
 
@@ -52,12 +53,17 @@ public class Main {
         nearbyDepositoriesHandler.setContextPath("/nearbyDepositories");
         nearbyDepositoriesHandler.setHandler(new NearbyRepositoriesHandler(safePassages));
 
+        ContextHandler metricedDepositoryHandler = new ContextHandler();
+        metricedDepositoryHandler.setContextPath("/metricedDepositories");
+        metricedDepositoryHandler.setHandler(new MetricedDepositoryHandler(safePassages));
+
         ContextHandlerCollection handlerCollection = new ContextHandlerCollection();
         handlerCollection.setHandlers(
                 new Handler[] {
                         schoolHandler,
                         depositoryHandler,
-                        nearbyDepositoriesHandler
+                        nearbyDepositoriesHandler,
+                        metricedDepositoryHandler
                 });
 
         server.setHandler(handlerCollection);

@@ -1,6 +1,7 @@
 package query;
 
 import entity.Depository;
+import entity.MetricedDepository;
 import entity.School;
 import entity.SchoolDepositoryPair;
 
@@ -32,6 +33,25 @@ public class SafePassages {
             "   where st_distance(sf.geom::geography, d.geom::geography) < 1000\n" +
             "     and sf.school_nam='";
 
+    private static final String SELECT_DEPOSITORES_WITH_METRICS = "select  d.name, d.streetaddress, st_x(d.geom), st_y(d.geom), d.city, d.zip, d.state, d.isschool, d.hasbreakfast, d.haslunch, d.hassupper, d.haspmsnack, sp.school_nam nearestsafepassage, ST_DISTANCE(d.geom::geography, sp.geom::geography) as distance,\n" +
+            "( \n" +
+            " select avg(subdist.adp::float/subdist.eligibles::float) engagement \n" +
+            " from public.depositories subd \n" +
+            " inner join public.distributions subdist \n" +
+            " on subd.streetaddress = subdist.streetaddress \n" +
+            " and subd.streetaddress = d.streetaddress\n" +
+            " ) engagement\n" +
+            "\n" +
+            "from public.depositories d, public.safepassages sp\n" +
+            "\n" +
+            "where sp.schoolid = (\n" +
+            " select subsp.schoolid \n" +
+            " from public.depositories subd, public.safepassages subsp \n" +
+            " where subd.streetaddress=d.streetaddress \n" +
+            " order by ST_DISTANCE(subd.geom, subsp.geom) \n" +
+            " limit 1\n" +
+            " )";
+
     public List<School> getSchoolNames()  {
         try {
             List<School> schools = new ArrayList<>();
@@ -56,6 +76,48 @@ public class SafePassages {
             se.printStackTrace();
             throw new RuntimeException(se);
         }
+    }
+
+    public List<MetricedDepository> getDepositoriesWithMetrics(){
+        try {
+            List<MetricedDepository> depositories = new ArrayList<>();
+
+            Statement statement = connection.createStatement();
+
+            ResultSet rs = statement.executeQuery(SELECT_DEPOSITORES_WITH_METRICS);
+
+            while (rs.next()) {
+                Depository depo = new Depository();
+
+                depo.setName(rs.getString("name"));
+                depo.setAddress(rs.getString("streetaddress"));
+                depo.setCity(rs.getString("city"));
+                depo.setxCoordinate(rs.getDouble("st_x"));
+                depo.setyCoordinate(rs.getDouble("st_y"));
+                depo.setZip(rs.getString("zip"));
+                depo.setState(rs.getString("state"));
+                depo.setSchool(rs.getInt("isschool") == 1);
+                depo.setLunch(rs.getInt("hasLunch") == 1);
+                depo.setPmSnack(rs.getInt("haspmsnack") == 1);
+                depo.setBreakfast(rs.getInt("hasbreakfast") == 1);
+                depo.setSupper(rs.getInt("hassupper") == 1);
+
+                MetricedDepository metricedDepository = new MetricedDepository();
+                metricedDepository.setEngagementScore(rs.getDouble("engagement"));
+                metricedDepository.setNearestRouteDistance(rs.getDouble("distance"));
+                metricedDepository.setDepository(depo);
+
+                depositories.add(metricedDepository);
+            }
+
+            return depositories;
+
+        } catch (SQLException se) {
+            System.out.println("Error reading school names");
+            se.printStackTrace();
+            throw new RuntimeException(se);
+        }
+
     }
 
     public List<SchoolDepositoryPair> findNearbyDepositories(String schoolName){
