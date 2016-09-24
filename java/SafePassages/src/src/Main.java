@@ -7,6 +7,9 @@ import java.sql.SQLException;
 import java.util.List;
 import java.util.Properties;
 
+import org.eclipse.jetty.server.Server;
+import web.SchoolNameHandler;
+
 public class Main {
     public static void main(String[] args){
         System.out.println("Starting");
@@ -14,7 +17,8 @@ public class Main {
         try {
 
             Connection connection = connectToDatabase();
-            printOutSchoolNames(connection);
+            SafePassages safePassages = new SafePassages(connection);
+            startWebServer(safePassages);
 
         } catch (SQLException se){
             System.out.println("Error getting connection");
@@ -22,8 +26,21 @@ public class Main {
         } catch (ClassNotFoundException cnfe){
             System.out.println("Error finding classes");
             cnfe.printStackTrace();
+        } catch (Exception ex){
+            System.out.println("Unknown error");
+            ex.printStackTrace();
         }
     }
+
+    private static void startWebServer(SafePassages safePassages) throws Exception {
+        System.out.println("Starting web server");
+        Server server = new Server(8080);
+        server.setHandler(new SchoolNameHandler(safePassages));
+
+        server.start();
+        server.join();
+    }
+
 
     private static Connection connectToDatabase() throws SQLException, ClassNotFoundException {
         System.out.println("Connecting to DB.");
@@ -41,8 +58,8 @@ public class Main {
     }
 
     private static void printOutSchoolNames(Connection connection) throws SQLException {
-        SafePassages sf = new SafePassages();
-        List<String> schoolNames = sf.getSchoolNames(connection);
+        SafePassages sf = new SafePassages(connection);
+        List<String> schoolNames = sf.getSchoolNames();
         for(String name : schoolNames){
             System.out.println(name);
         }

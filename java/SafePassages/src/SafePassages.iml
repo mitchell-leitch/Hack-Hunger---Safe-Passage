@@ -8,5 +8,10 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="postgresql-9.4.1211.jre61" level="project" />
+    <orderEntry type="library" name="jetty-util-9.3.12.v20160915" level="project" />
+    <orderEntry type="library" name="jetty-server-9.3.12.v20160915" level="project" />
+    <orderEntry type="library" name="servlet-api-3.1" level="project" />
+    <orderEntry type="library" name="jetty-http-9.3.12.v20160915" level="project" />
+    <orderEntry type="library" name="jetty-io-9.3.12.v20160915" level="project" />
   </component>
 </module>

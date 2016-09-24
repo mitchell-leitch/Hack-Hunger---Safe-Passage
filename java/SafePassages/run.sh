@@ -1,1 +1,12 @@
-java -classpath jars/postgresql-9.4.1211.jre6.jar:out/production/src Main
+JARS=jars
+
+POSTGRESJAR=$JARS/postgresql-9.4.1211.jre6.jar
+JETTYHTTP=$JARS/jetty-http-9.3.12.v20160915.jar
+JETTYSERVER=$JARS/jetty-server-9.3.12.v20160915.jar
+JETTYIO=$JARS/jetty-io-9.3.12.v20160915.jar
+JETTYUTIL=$JARS/jetty-util-9.3.12.v20160915.jar
+SERVLETAPI=$JARS/servlet-api-3.1.jar
+
+CLASSPATH=$POSTGRESJAR:$JETTYHTTP:$JETTYSERVER:$JETTYIO:$JETTYUTIL:$SERVLETAPI
+
+java -classpath $CLASSPATH:out/production/src Main
