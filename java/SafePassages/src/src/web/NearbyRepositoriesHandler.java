@@ -47,7 +47,7 @@ public class NearbyRepositoriesHandler extends AbstractHandler {
             pairsByDistance.put(pair.getDistance(), pair);
         }
 
-        response.getWriter().print("<h1>Nearby Repositories to ");
+        response.getWriter().print("<h1>Nearby Depositories to ");
         response.getWriter().print(schoolName);
         response.getWriter().println("</h1>");
 

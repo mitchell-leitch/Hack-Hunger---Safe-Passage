@@ -7,7 +7,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class SafePassages {
@@ -58,6 +57,9 @@ public class SafePassages {
             Statement statement = connection.createStatement();
 
             ResultSet rs = statement.executeQuery(SELECT_CRIMES);
+
+            System.out.println("Querying " + SELECT_CRIMES);
+
             while (rs.next()) {
                 Crime crime = new Crime();
 
@@ -83,6 +85,9 @@ public class SafePassages {
             Statement statement = connection.createStatement();
 
             ResultSet rs = statement.executeQuery(SELECT_SCHOOLS);
+
+            System.out.println("Querying " + SELECT_SCHOOLS);
+
             while (rs.next()) {
                 School school = new School();
 
@@ -109,6 +114,8 @@ public class SafePassages {
             Statement statement = connection.createStatement();
 
             ResultSet rs = statement.executeQuery(SELECT_DEPOSITORES_WITH_METRICS);
+
+            System.out.println("QUERYING " + SELECT_DEPOSITORES_WITH_METRICS);
 
             while (rs.next()) {
                 Depository depo = new Depository();
