@@ -7,7 +7,6 @@ import query.SafePassages;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-import java.util.List;
 import java.util.Properties;
 
 import org.eclipse.jetty.server.Server;
@@ -75,14 +74,6 @@ public class Main {
         Connection conn = DriverManager.getConnection(url, props);
         System.out.println("Connected. " + conn);
         return conn;
-    }
-
-    private static void printOutSchoolNames(Connection connection) throws SQLException {
-        SafePassages sf = new SafePassages(connection);
-        List<String> schoolNames = sf.getSchoolNames();
-        for(String name : schoolNames){
-            System.out.println(name);
-        }
     }
 
 }

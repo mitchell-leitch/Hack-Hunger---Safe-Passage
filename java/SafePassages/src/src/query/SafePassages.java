@@ -1,6 +1,7 @@
 package query;
 
 import entity.Depository;
+import entity.School;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -17,25 +18,31 @@ public class SafePassages {
         this.connection = connection;
     }
 
-    private static final String SELECT_SCHOOL_NAMES =
-            "select school_nam from safepassages";
+    private static final String SELECT_SCHOOLS =
+            "select school_nam, rt_num, schoolid, geom from safepassages";
 
     private static final String SELECT_DEPOSITORIES =
                 "select name, streetaddress, st_x(geom), st_y(geom), city, zip, state, isschool, hasbreakfast, haslunch, hassupper, haspmsnack from depositories";
 
-    public List<String> getSchoolNames()  {
+    public List<School> getSchoolNames()  {
         try {
-            List<String> names = new ArrayList<>();
+            List<School> schools = new ArrayList<>();
 
             Statement statement = connection.createStatement();
 
-            ResultSet rs = statement.executeQuery(SELECT_SCHOOL_NAMES);
+            ResultSet rs = statement.executeQuery(SELECT_SCHOOLS);
             while (rs.next()) {
-                String name = rs.getString("school_nam");
-                names.add(name);
+                School school = new School();
+
+                school.setName(rs.getString("school_nam"));
+                school.setSchoolId(rs.getLong("schoolid"));
+                school.setRouteNumber(rs.getLong("rt_num"));
+                school.setGeometry(rs.getString("geom"));
+
+                schools.add(school);
             }
 
-            return names;
+            return schools;
         } catch (SQLException se){
             System.out.println("Error reading school names");
             se.printStackTrace();
@@ -43,7 +50,7 @@ public class SafePassages {
         }
     }
 
-    public List<Depository> getDepositories(){
+    public List<Depository> getDepositories() {
         try {
             List<Depository> depositories = new ArrayList<>();
 
@@ -51,7 +58,7 @@ public class SafePassages {
 
             ResultSet rs = statement.executeQuery(SELECT_DEPOSITORIES);
 
-            while(rs.next()){
+            while (rs.next()) {
                 Depository depo = new Depository();
 
                 depo.setName(rs.getString("name"));
@@ -72,13 +79,10 @@ public class SafePassages {
 
             return depositories;
 
-        } catch (SQLException se){
+        } catch (SQLException se) {
             System.out.println("Error reading school names");
             se.printStackTrace();
             throw new RuntimeException(se);
         }
     }
-
-
-
 }
