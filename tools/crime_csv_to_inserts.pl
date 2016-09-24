@@ -30,10 +30,8 @@ while (my $line = <>){
   #print "$line\n";
   $line =~ s/, /,/g;
   my @a = split(/,/, $line);
-  # Name,Address,City,State,Zip,Lat,Long,IsSchool,Breakfast,Lunch,Supper,P.M. Snack
-  #  0    1       2    3     4   5   6    7        8         9      10    11
-  # Street Address,City,State,Zip,Lat,Long,Address without quote,Distribution Name,IsSchool,Breakfast,Lunch,Supper,P.M. Snack 
-  # 0               1    2     3  4   5       6                       7               8      9        10     11     12
-  print "INSERT INTO public.depositories(name, streetAddress, city, state, zip,  geom, isSchool, hasBreakfast, hasLunch, hasSupper, hasPMSnack) values('$a[0]', '$a[1]', '$a[2]', '$a[3]', '$a[4]', ST_POINT($a[6], $a[5]), B'$a[7]', B'$a[8]', B'$a[9]', B'$a[10]', B'$a[11]');\n";
+  # ID, crimetime, lat, long
+  #  0    1        2     3  
+  print "INSERT INTO public.crimes(id, crimetime, geom) values($a[0], '$a[1]', ST_POINT($a[3], $a[2]));\n";
 
 }
