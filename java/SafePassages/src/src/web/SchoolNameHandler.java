@@ -1,5 +1,6 @@
 package web;
 
+import entity.School;
 import org.eclipse.jetty.server.Request;
 import org.eclipse.jetty.server.handler.AbstractHandler;
 import query.SafePassages;
@@ -8,8 +9,7 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 public class SchoolNameHandler extends AbstractHandler {
 
@@ -32,14 +32,19 @@ public class SchoolNameHandler extends AbstractHandler {
         response.setStatus(HttpServletResponse.SC_OK);
 
         // Write back response
-        List<String> schoolNames = safePassages.getSchoolNames();
+        List<School> schools = safePassages.getSchoolNames();
+        SortedMap<String, School> schoolsByName = new TreeMap<>();
 
-        Collections.sort(schoolNames);
+        for(School school : schools){
+            schoolsByName.put(school.getName(), school);
+        }
+
 
         response.getWriter().println("<h1>School names</h1>");
+
         response.getWriter().print("<ul>");
-        for(String name : schoolNames){
-            response.getWriter().println("<li>" + name + "</li>");
+        for(Map.Entry<String, School> pair : schoolsByName.entrySet()){
+            response.getWriter().println("<li>" + pair.getValue().getName() + "</li>");
         }
         response.getWriter().println("</ul>");
 
