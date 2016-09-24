@@ -44,7 +44,15 @@ public class SchoolNameHandler extends AbstractHandler {
 
         response.getWriter().print("<ul>");
         for(Map.Entry<String, School> pair : schoolsByName.entrySet()){
-            response.getWriter().println("<li>" + pair.getValue().getName() + "</li>");
+            StringBuilder bldr = new StringBuilder();
+            bldr.append("<li>");
+            bldr.append("<a href=\"http://10.1.106.135:8080/nearbyDepositories?");
+            bldr.append(pair.getValue().getName());
+            bldr.append("\">");
+            bldr.append(pair.getValue().getName());
+            bldr.append("</a>");
+            bldr.append("</li>");
+            response.getWriter().println(bldr.toString());
         }
         response.getWriter().println("</ul>");
 

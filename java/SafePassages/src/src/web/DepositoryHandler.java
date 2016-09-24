@@ -27,7 +27,8 @@ public class DepositoryHandler extends AbstractHandler {
             ServletException
     {
         // Declare response encoding and types
-        response.setContentType("text/html; charset=utf-8");
+        response.setContentType("application/json; charset=utf-8");
+        response.addHeader("Access-Control-Allow-Origin", "*");
 
         // Declare response status code
         response.setStatus(HttpServletResponse.SC_OK);
