@@ -28,6 +28,7 @@ while (my $line = <>){
   $line =~ s/\r//g;
   $line =~ s/\n//g;
   #print "$line\n";
+  $line =~ s/, /,/g;
   my @a = split(/,/, $line);
   # Street Address,City,State,Zip,Lat,Long,Address without quote,Distribution Name,IsSchool,Breakfast,Lunch,Supper,P.M. Snack 
   # 0               1    2     3  4   5       6                       7               8      9        10     11     12

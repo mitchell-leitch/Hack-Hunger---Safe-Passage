@@ -28,9 +28,11 @@ while (my $line = <>){
   $line =~ s/\r//g;
   $line =~ s/\n//g;
   #print "$line\n";
+  while ($line =~ s/,,/,0,/g) {};
   my @a = split(/,/, $line);
-  # Street Address,City,State,Zip,Lat,Long,Address without quote,Distribution Name,IsSchool,Breakfast,Lunch,Supper,P.M. Snack 
-  # 0               1    2     3  4   5       6                       7               8      9        10     11     12
-  print "INSERT INTO public.depositories(name, streetAddress, city, state, zip,  geom, isSchool, hasBreakfast, hasLunch, hasSupper, hasPMSnack) values('$a[7]', '$a[0]', '$a[1]', '$a[2]', '$a[3]', ST_POINT($a[5], $a[4]), B'$a[8]', B'$a[9]', B'$a[10]', B'$a[11]', B'$a[12]');\n";
+
+  #EntityName,SiteName,SiteNumber,ClaimCalendarMonth,ClaimCalendarYear,MealRateTypeDescription,ClaimDerivedCategoryTypeDescription,MealTypeDescription,MealCount,Enrol,ADA,Eligibles,DaysClaimed,ADP,StreetAddress,City,State,Zip,ZipPlus4,County
+  # 0              1    2            3                   4                     5                      6                                 7                8         9    0     11        12       13        14       15    16   17  18       19
+  print "INSERT INTO public.distributions(entityname, sitename, claimcalendarmonth, claimcalendaryear, mealcount, eligibles, daysclaimed, adp, streetaddress) values('$a[0]', '$a[1]', $a[3], $a[4], $a[8], $a[11], $a[12], $a[13], '$a[14]');\n";
 
 }
