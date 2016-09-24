@@ -11,6 +11,7 @@ import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
+import java.net.URLDecoder;
 import java.util.List;
 import java.util.Map;
 import java.util.SortedMap;
@@ -36,7 +37,7 @@ public class NearbyRepositoriesHandler extends AbstractHandler {
         // Declare response status code
         response.setStatus(HttpServletResponse.SC_OK);
 
-        String schoolName = request.getQueryString();
+        String schoolName = URLDecoder.decode(request.getQueryString());
 
         // Write back response
         List<SchoolDepositoryPair> pairs = safePassages.findNearbyDepositories(schoolName);
@@ -52,7 +53,8 @@ public class NearbyRepositoriesHandler extends AbstractHandler {
 
         response.getWriter().println("<table border=1>");
         response.getWriter().println("<tr>");
-        response.getWriter().println("<td>Distance (meters)</td><td>School Name</td><td>Depository Name</td>");
+        response.getWriter().println("<td>Distance (meters)</td><td>Depository Name</td>");
+        response.getWriter().println("<td>Depository Address</td>");
         response.getWriter().println("</tr>");
 
         for(Map.Entry<Double, SchoolDepositoryPair> pair : pairsByDistance.entrySet()){
@@ -60,8 +62,8 @@ public class NearbyRepositoriesHandler extends AbstractHandler {
             Depository depository = pair.getValue().getDepository();
             response.getWriter().println("<tr>");
             response.getWriter().println("<td>" + pair.getKey() + "</td>");
-            response.getWriter().println("<td>" + school.getName() + "</td>");
             response.getWriter().println("<td>" + depository.getName() + "</td>");
+            response.getWriter().println("<td>" + depository.getAddress() + "</td>");
 
             response.getWriter().println("</tr>");
 
