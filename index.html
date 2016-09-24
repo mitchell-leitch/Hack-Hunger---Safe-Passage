@@ -8,6 +8,8 @@
         <script>
             $(document).ready(function(){
                 var markers = []; // define global array in script tag so you can use it in whole page    
+                var infowindow = new google.maps.InfoWindow();
+                var bounds = new google.maps.LatLngBounds();
                 var myCenter=new google.maps.LatLng(41.881832,-87.623177);
                 var mapProp = {
                         center:myCenter, 
@@ -48,7 +50,12 @@
                                               markers[i][1] = new google.maps.Marker({
                                                    position: new google.maps.LatLng(lat,lng),
                                                    map: map,
-                                                   title: name                  
+                                                   title: name,
+                                                   info: name,                  
+                                              });
+                                              google.maps.event.addListener(markers[i][1], 'click', function () {
+                                                infowindow.setContent(this.info);
+                                                  infowindow.open(map, this);
                                               });
                                        }
 
