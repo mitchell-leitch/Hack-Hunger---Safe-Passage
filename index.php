@@ -49,7 +49,7 @@ h1{
 
                     <h3><strong>Who we did this for</strong></h3>
 
-                    <p class="lead"><a href="http://www.usda.gov/wps/portal/usda/usdahome?contentid=2014/03/0048.xml" target="_blank">Only 11% of Eligible Kids in Illinois Participate in Summer Meal Program</a> (2014) Chicago’s participation appears higher than the state average, but still low.</p>
+                    <p class="lead"><a href="http://www.usda.gov/wps/portal/usda/usdahome?contentid=2014/03/0048.xml" target="_blank">Only 11% of Eligible Kids in Illinois Participate in Summer Meal Program</a> (2014) Chicago’s participation appears higher than the state average, but still low. In the data set we're looking at, it's 14%</p>
 
                     <h3><strong>Why we did this</strong></h3>
 
@@ -65,10 +65,45 @@ Catholic Charities of the Archdiocese of Chicago petitioned for and was awarded 
 
                     <p class="lead">Seems reasonable that unsafe travel to/from the distribution sites would be a deterrent to participation in much the same way.  Let's see if we can quantify that assumption. </p>
 
-                    <h3><strong>What we want to do</strong></h3>
+                    <h3><strong>What we didn't do</strong></h3>
 
-                    <p class="lead">Seems reasonable that unsafe travel to/from the distribution sites would be a deterrent to participation in much the same way.  Let's see if we can quantify that assumption. </p>
+                    <p class="lead">We didn't include suburbs of Chicago.  Safe Passages is done by the city.  We also didn't do a lot of intricate stats.  Other teams are doing that, and it seems really cool.</p>
+
+                    <h3><strong>What we did</strong></h3>
+
+                    <p class="lead">We made location data <strong>accessible</strong>.  We put the data into geometry-aware database to do fast calculations.  We built an API that merges Summer program locations with Safe Passages locations and the crime statistics that underly them.</p>
+
+                    <p class="lead">We made location data <strong>visible</strong>.  We built an interactive map that shows the relationships between food and safe streets.</p>
+
+                    <p class="lead">We made location data <strong>actionable</strong>.  We used statistical correlation to find a correlation between the distance of a summer food program to an un-monitored street that would otherwise by part of Safe Passages and the engagement rate of kids in that program.</p>
+
+                    <h3><strong>What we would like to do more of</strong></h3>
+
+                    <p class="lead">We would love to make access of this data more direct, with a smartphone app, to help people find safe routes in their neighborhood to summer food programs.  We wish it were easier to import new and up-to-date data into the system. </p>
+
+                    <h3><strong>What we measured</strong></h3>
+
+                    <p class="lead">We used meals per day per eligible child as a proxy for engagement with summer food programs.  That metric is consistent across programs.</p>
+
+                    <h3><strong>What we found</strong></h3>
+
+                    <p class="lead">Meals per child per day increase with distance from Safe Passage routes. </p>
+                    <p><img src="img/graph.png"/></p>
+                    <p class="lead">For every 1000 feet (1 bus stop) away from an unmonitored Safe Passages route, engagement goes up by a half a percent.  That's <strong>4700</strong> kids who get lunch.</p>
+
+                    <h3><strong>What we didn't find</strong></h3>
+
+                    <p class="lead">Strong correlation.  This is not going to be a way to feed everyone, but it's worth looking into. </p>
                     
+                    <h3><strong>Why you should vote for us</strong></h3>
+
+                    <p class="lead"><strong>Innovation</strong>: This is not a correlation that people are looking at.</p>
+                    <p class="lead"><strong>Impact</strong>: The dropoff between school year meals and summer meals opens up great opportunity to feed children.</p>
+                    <p class="lead"><strong>Viability</strong>: This is a data set that is open and available now, with an actual policy implication at the end of it.</p>
+
+
+
+
                 </div>
 
             </div> 
