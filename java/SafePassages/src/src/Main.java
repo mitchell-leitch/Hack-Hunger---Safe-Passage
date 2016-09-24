@@ -1,4 +1,7 @@
 
+import org.eclipse.jetty.server.Handler;
+import org.eclipse.jetty.server.handler.ContextHandler;
+import org.eclipse.jetty.server.handler.ContextHandlerCollection;
 import query.SafePassages;
 
 import java.sql.Connection;
@@ -8,6 +11,7 @@ import java.util.List;
 import java.util.Properties;
 
 import org.eclipse.jetty.server.Server;
+import web.DepositoryHandler;
 import web.SchoolNameHandler;
 
 public class Main {
@@ -35,7 +39,23 @@ public class Main {
     private static void startWebServer(SafePassages safePassages) throws Exception {
         System.out.println("Starting web server");
         Server server = new Server(8080);
-        server.setHandler(new SchoolNameHandler(safePassages));
+
+        ContextHandler schoolHandler = new ContextHandler();
+        schoolHandler.setContextPath("/school_names");
+        schoolHandler.setHandler(new SchoolNameHandler(safePassages));
+
+        ContextHandler depositoryHandler = new ContextHandler();
+        depositoryHandler.setContextPath("/depositories");
+        depositoryHandler.setHandler(new DepositoryHandler(safePassages));
+
+        ContextHandlerCollection handlerCollection = new ContextHandlerCollection();
+        handlerCollection.setHandlers(
+                new Handler[] {
+                        schoolHandler,
+                        depositoryHandler
+                });
+
+        server.setHandler(handlerCollection);
 
         server.start();
         server.join();

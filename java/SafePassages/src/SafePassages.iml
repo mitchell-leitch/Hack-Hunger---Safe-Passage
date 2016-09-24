@@ -13,5 +13,6 @@
     <orderEntry type="library" name="servlet-api-3.1" level="project" />
     <orderEntry type="library" name="jetty-http-9.3.12.v20160915" level="project" />
     <orderEntry type="library" name="jetty-io-9.3.12.v20160915" level="project" />
+    <orderEntry type="library" name="json-simple-1.1.1" level="project" />
   </component>
 </module>
