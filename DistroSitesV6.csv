@@ -1,0 +1,912 @@
+Name,Address,City,State,Zip,Lat,Long,IsSchool,Breakfast,Lunch,Supper,PMSnack
+Chicago Chesed Fund - meor hatorah,3635 W Devon Ave, Chicago, IL,60659,41.996967,-87.72065,0,1,1,0,0
+Salvation Army/Headstart - Salvation Army Ray and Joan Kroc Center,1250 W 119th St, Chicago, IL,60643,41.678593,-87.652783,0,0,1,0,1
+University of Illinois - Student Center East Cafeteria,750 S Halsted St, Chicago, IL,60607,41.871912,-87.647948,0,1,1,1,0
+Archdiocese of Chicago-Nw Hwy - Augustus Tolton Catholic Academy,7120 S Calumet Ave, Chicago, IL,60619,41.764687,-87.61733,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Visitation Catholic School,900 W Garfield Blvd, Chicago, IL,60609,41.794527,-87.647993,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - St Cornelius,5252 N Long Ave, Chicago, IL,60630,41.975992,-87.763745,1,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Pope John Paul II Catholic School,4325 S Richmond St, Chicago, IL,60632,41.814934,-87.697746,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - St Angela School,1332 N Massasoit Ave, Chicago, IL,60651,41.904355,-87.770019,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - St Agnes of Bohemia,2643 S Central Park Ave, Chicago, IL,60623,41.843143,-87.714441,1,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - St John Berchmans School,2511 W Logan Blvd, Chicago, IL,60647,41.927887,-87.690725,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - St Malachy School,2252 W Washington Blvd, Chicago, IL,60612,41.883297,-87.683726,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - St Stanislaus Kostka School,1255 N Noble St, Chicago, IL,60642,41.905182,-87.662101,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - St Sylvester School,3027 W Palmer Blvd, Chicago, IL,60647,41.920316,-87.703215,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - St Therese School,247 W 23rd St, Chicago, IL,60616,41.849778,-87.633783,0,0,1,0,0
+Archdiocese of Chicago-Nw Hwy - St Richard School,5025 S Kenneth Ave, Chicago, IL,60632,41.801962,-87.7343,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - St Philip Neri School,2110 E 72nd St, Chicago, IL,60649,41.764899,-87.573207,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - St Mary of the Lake School,1026 W Buena Ave, Chicago, IL,60613,41.958763,-87.655517,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - St Paul Lutheran School,7621 S Dorchester Ave, Chicago, IL,60619,41.756313,-87.590267,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Queen of the Universe,7130 S Hamlin Ave, Chicago, IL,60629,41.762934,-87.718043,1,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Vietnamese Assn Of Il,5110 N Broadway St, Chicago, IL,60640,41.975059,-87.660148,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - St Mark Church Of God & Christ,9201 S Avalon Ave, Chicago, IL,60619,41.727437,-87.593342,0,0,1,0,0
+Archdiocese of Chicago-Nw Hwy - Evening Star Missionary Church,4235 S Cottage Grove Ave, Chicago, IL,60653,41.817585,-87.606527,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Off The Street Club,25 N Karlov Ave, Chicago, IL,60624,41.881452,-87.727752,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Circle Urban Ministries,118 N Central Ave, Chicago, IL,60644,41.882842,-87.765412,0,1,1,0,1
+Archdiocese of Chicago-Nw Hwy - ICARE Ministries,4925 W Division St, Chicago, IL,60651,41.902292,-87.749538,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Irving Park YMCA,4251 W Irving Park Rd, Chicago, IL,60641,41.953171,-87.734892,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Little Village Boys And Girls Club Of Chicago,2801 S Ridgeway Ave, Chicago, IL,60623,41.840477,-87.717967,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Dr M L King Jr Boys & Girls Club,2950 W Washington Blvd, Chicago, IL,60612,41.883268,-87.700917,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Pedersen McCormick Boys & Girls Club,4835 N Sheridan Rd, Chicago, IL,60640,41.970286,-87.654608,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Valentine Boys&Girls Clubs Chcago,3400 S Emerald Ave, Chicago, IL,60616,41.832235,-87.645295,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - James Jordan Boys & Girls Club,2102 W Monroe St, Chicago, IL,60612,41.880236,-87.679609,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Beacon Therapeutic Adolescent Prg,10650 S Longwood Dr, Chicago, IL,60643,41.699625,-87.671201,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Oakdale Christian Academy,9440 S Vincennes Ave, Chicago, IL,60620,41.722261,-87.650658,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Mission Of Faith MB Church,11321 S Prairie Ave, Chicago, IL,60628,41.688442,-87.616873,0,0,1,0,0
+Archdiocese of Chicago-Nw Hwy - Salem Christian School,2018 N Richmond St, Chicago, IL,60647,41.918213,-87.700347,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - United Educational Cultural Acad,1236 W 103rd St # 42, Chicago, IL,60643,41.707014,-87.65411,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Scouting Network,8058 S Maryland Ave, Chicago, IL,60619,41.74782,-87.604215,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - New Life Centers Of Chicagoland,2657 S Lawndale Ave, Chicago, IL,60623,41.842671,-87.716963,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Paul Hall Community Family Center,10140 S Halsted St, Chicago, IL,60628,41.709307,-87.643272,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - San Lucas UCC,2914 W North Ave, Chicago, IL,60647,41.910383,-87.699852,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Bethel House Of Prayer,10956 S State St, Chicago, IL,60628,41.694637,-87.623184,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Greater Metropolitan COGIC Mother Ruth Whittmon Society,2430 E 75th St, Chicago, IL,60649,41.75921,-87.565146,0,0,1,0,0
+Archdiocese of Chicago-Nw Hwy - RBC Comm Service Center,1159 W 51st St, Chicago, IL,60609,41.801234,-87.654892,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Logan Square Boys And Girls Club,3228 W Palmer St, Chicago, IL,60647,41.921392,-87.708663,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Greater Acquaintance MB Church,6758 S Wabash Ave, Chicago, IL,60637,41.771159,-87.623468,0,0,1,0,0
+Archdiocese of Chicago-Nw Hwy - Hyde Park Neighborhood Club,5480 S Kenwood Ave, Chicago, IL,60615,41.795712,-87.593861,0,1,1,0,1
+Archdiocese of Chicago-Nw Hwy - Gen Robert Woods Boys&Girls Club,2950 W 25th St, Chicago, IL,60623,41.846676,-87.699755,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Soul Reviving MB Church,9537 S Perry Ave, Chicago, IL,60628,41.720492,-87.626155,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - The Bishop Shephard Little M Ctr,5230 S Halsted St, Chicago, IL,60609,41.798897,-87.645453,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Community TV Network,2418 W Bloomingdale Ave, Chicago, IL,60647,41.914139,-87.688,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Communidades Unidas,3500 W 63rd Pl, Chicago, IL,60629,41.778237,-87.710633,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Vision Summer Camp,9535 S Prospect Ave, Chicago, IL,60643,41.720175,-87.664813,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Zion Nation,6220 S Damen Ave, Chicago, IL,60636,41.780528,-87.674288,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Tabernacle Baptist Church,4130 S Indiana Ave, Chicago, IL,60653,41.819192,-87.621745,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - New Foundation of Hope,8144 S Kedzie Ave, Chicago, IL,60652,41.744789,-87.70265,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Chicago Preschool Academy,532 E 87th St, Chicago, IL,60619,41.736813,-87.610683,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Allen Metropolitan CME Church,10946 S Lowe Ave, Chicago, IL,60628,41.694604,-87.639243,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Centers Higher Development 2,3515 S Cottage Grove Ave, Chicago, IL,60653,41.830606,-87.609707,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - C R Phillips,2018 E 83rd St, Chicago, IL,60617,41.744611,-87.575136,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Bronzeville Lighthouse Elem Chrtr,8 W Root St, Chicago, IL,60609,41.819829,-87.626995,1,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Germano Milgate Tenant Association,8732 S Burley Ave, Chicago, IL,60617,41.736019,-87.545922,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - New City Day Care,1000 W 51st St, Chicago, IL,60609,41.801762,-87.650408,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - New Philadelphia Church,5430 S State St, Chicago, IL,60609,41.795484,-87.626033,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Carey Temple AME,7157 S Greenwood Ave, Chicago, IL,60619,41.764384,-87.597876,0,0,1,0,0
+Archdiocese of Chicago-Nw Hwy - World Outreach Conference Center,4 E 111th St, Chicago, IL,60628,41.692852,-87.622462,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Greenbaum,4300 WWabansia, Chicago, IL,60639,41.911627,-87.733709,0,1,1,0,1
+Archdiocese of Chicago-Nw Hwy - Washington Park Youth Programs,5350 S Prairie Ave, Chicago, IL,60615,41.796908,-87.619301,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Chicago Xplosion Allstars,901 East 95th Street, Chicago, IL,60619,41.722065,-87.601141,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Northeastern IL University,5500 N Saint Louis Ave, Chicago, IL,60625,41.980212,-87.718797,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Sunshine Gospel Ministeries,500 E 61st St, Chicago, IL,60637,41.784075,-87.612989,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Just for Kids,11024 S Bell Ave, Chicago, IL,60643,41.693776,-87.677162,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Holy Family Ministries,3415 W Arthington St, Chicago, IL,60624,41.869694,-87.711774,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Holy Family Lutheran Church- After School,542 W Hobbie St, Chicago, IL,60610,41.901705,-87.642868,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Roseland Ceasefire Project Beth Eden BC,1035 West 111th Street, Chicago, IL,60643,41.692039,-87.648363,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Silver Cloud MB Church,1041 W 59th St, Chicago, IL,60621,41.786678,-87.651461,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Gods House of All Nations,8409 S Stony Island Ave, Chicago, IL,60617,41.742022,-87.584955,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Perspective Calumet Charter Sch Football Program,8131 S May St, Chicago, IL,60620,41.745962,-87.651505,1,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Brainy Boulevard Daycare,3342 W Bryn Mawr Ave, Chicago, IL,60659,41.983216,-87.713014,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Rogers Park Presbyterian Church,7059 N Greenview Ave, Chicago, IL,60626,42.010604,-87.667633,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - St Pascal Summer Camp,6143  West Irving Park Road, Chicago, IL,60634,41.952544,-87.780793,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Blessed Sacrament Youth Program,3600 South Cermak, Chicago, IL,60623,41.851821,-87.715292,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Greater Garfield,3757 W Douglas, Chicago, IL,60623,41.861873,-87.719858,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Academy Of St Benedict EDU FUN,6022 South Laflin, Chicago, IL,60636,41.784011,-87.661915,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - King College Prep,4445 S Drexel Blvd, Chicago, IL,60653,41.814127,-87.602936,1,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Good News Community Church,3749 W Huron, Chicago, IL,60624,41.893369,-87.720628,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Eden Place Nature Center,4417 S Stewart Ave, Chicago, IL,60609,41.8139,-87.635427,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - St Anselms Fisher Development CTR,110 East 61st Street, Chicago, IL,60637,41.783793,-87.622008,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Miracle House of Prayer,8638 S Michigan Ave, Chicago, IL,60619,41.737073,-87.62147,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - UIC Urban Health Early Outreach Summer Prep Program,1007 West Harrison Street, Chicago, IL,60607,41.87372,-87.652625,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Sakal the Center,10637 South Perry, Chicago, IL,60637,41.700662,-87.625704,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Warriors Drum and Bugie Cor Paul Hall Comm Ctr,10140 Wouth Halsted Street, Chicago, IL,60628,41.709307,-87.643272,0,0,0,1,0
+Archdiocese of Chicago-Nw Hwy - Banner School,9538 South Harvard Ave, Chicago, IL,60628,41.720762,-87.632659,0,0,1,0,0
+Archdiocese of Chicago-Nw Hwy - New Macedonia Church,4244 West Madison, Chicago, IL,60624,41.880901,-87.732429,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Mind Shapers Recreation Youth Center,1843 West 95th Street, Chicago, IL,60643,41.721042,-87.669571,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Windsor Park Lutheran church,2619 East 76th Street, Chicago, IL,60649,41.757039,-87.560667,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Community Services Upward Bond,2240 West Ogden, Chicago, IL,60612,41.867974,-87.68237,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Santa Lucia School Educational Enrichment Program,3018 South Wells, Chicago, IL,60616,41.839075,-87.633236,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - New Genesis AOG Baptist Church,1400 North Laramie, Chicago, IL,60651,41.90608,-87.756243,0,0,1,0,0
+Archdiocese of Chicago-Nw Hwy - Mujeres Latinas Project Youth,1823 W 17th St, Chicago, IL,60608,41.858444,-87.672059,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - St Michael Spiritual Church,1425 West 51St, Chicago, IL,60609,41.8011,-87.660931,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Childrens World 1,5911 N Lincoln Ave, Chicago, IL,60659,41.98874,-87.704101,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Childrens World 2,5807 N Lincoln Ave, Chicago, IL,60659,41.987162,-87.701386,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Elim Christian Church Vacation Bible School,2735 W 79th St, Chicago, IL,60652,41.749659,-87.691129,0,1,0,0,1
+Archdiocese of Chicago-Nw Hwy - The Global Studio Summer,8151 S South Chicago Ave, Chicago, IL,60617,41.74671,-87.578585,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Morgan Park Boys and Girls Club,1425 W 112th St, Chicago, IL,60643,41.690381,-87.657934,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Mustard Seed Learning Center,3656 W 111th St, Chicago, IL,60655,41.691539,-87.712613,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Claretian Associates,9100 S Burley Ave, Chicago, IL,60617,41.729851,-87.545819,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Living Hope Church,6414 S Cottage Grove Ave, Chicago, IL,60637,41.778034,-87.606235,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Future World,5944 N Magnolia Ave, Chicago, IL,60660,41.990485,-87.661595,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Future World II,1744 E 55th St, Chicago, IL,60615,41.795382,-87.582074,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - New Covenant Baptist Church,754 E 77th St, Chicago, IL,60619,41.755326,-87.605688,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Summe Safe Haven Program Acts of the Apostle BC,500 E 71st St, Chicago, IL,60619,41.765927,-87.612512,0,0,1,0,0
+Archdiocese of Chicago-Nw Hwy - Cross Temple Church of God and Christ,9100 S Bishop St, Chicago, IL,60620,41.728324,-87.659611,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Lawndale Community Church,3839 W Ogden Ave, Chicago, IL,60623,41.85215,-87.72128,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Continuing Academic Training Children and Youth,218 E 79th St, Chicago, IL,60619,41.751275,-87.618898,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Greater First Baptist Church VBS,751 N Parkside Ave, Chicago, IL,60644,41.89448,-87.766263,0,0,0,1,0
+Archdiocese of Chicago-Nw Hwy - Pui Tak Christian School,2301 South Wentworth Av, chicago, IL,60616,41.850744,-87.631627,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Thompson hopewell,3313 W. Douglas, Chicago, IL,60623,41.862217,-87.708614,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Morgan Park United Methodist Church,11030 South Longwood Dr, Chicago, IL,60643,41.693498,-87.671672,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Park View Lutheran Church,3919 N Monticello , Chicago , IL,60618,41.952514,-87.718989,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Brickyard Bible,6334 W Diversey, Chicago, IL,60639,41.931248,-87.784794,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - HARAMBEE CHICAGO FOUNDATION,1410 NORTH SPRINGFIELD, CHICAGO, IL,60651,41.906703,-87.724296,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - New Birth Church of God In Christ,1500 W 69th Street , Chicago , IL,60636,41.768835,-87.661684,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Light House Youth Center,4338 S Prairie Ave, Chicago, IL,60653,41.815405,-87.620129,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - CNH Maps Corp Program,4305 S King Drive , Chicago , IL,60653,41.816385,-87.616497,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Camelot Safe Academy School,7877 S Coles Ave, Chicago, IL,60649,41.752427,-87.550297,0,0,1,0,0
+Archdiocese of Chicago-Nw Hwy - CHICAGO YOUTH PROGRAM  CABRINI GREEN,375 W ELM, CHICAGO, IL,60610,41.902825,-87.637418,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - GODS ARMY MINISTIES,4335 W LAWRENCE AV, CHICAGO, IL,60630,41.967883,-87.736863,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Archdiocese of Chgo - Maternity BVM,1537 N Lawndale Ave, Chicago, IL,60651,41.90924,-87.718849,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Creative Schools Christian/AFC Church,531 W 103rd , Chicago , IL,60643,41.706749,-87.636838,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - chatham Academy,9035 S Langley, Chicago , IL,60619,41.729992,-87.606784,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - RESTORING THE SEED,3501 EAST 95TH STR, CHICAGO, IL,60617,41.722636,-87.538714,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - True Fellowship MBC,9556 S. King Drive, Chicago, IL,60628,41.720249,-87.614447,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Westside Community Services,325 S California, Chicago, IL,60612,41.876522,-87.695775,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - PRAIZE PRODUCTION  INC NFP,7000 SOUTH KIND DRIVE, CHICAGO, IL,60637,41.767515,-87.615309,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - CHICAGO CITY LIFE CENTER,5501 SOUTH LASALLE ST, CHICAGO, IL,60621,41.794055,-87.629123,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - ACSSA SUMMER CAMP,415 WEST ENGLEWOOD, CHICAGO, IL,60621,41.780567,-87.635809,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Curtis Britt Youth Outreach Ministey,4701 W Lake St, Chicago, IL,60644,41.886217,-87.743221,0,0,1,0,0
+Archdiocese of Chicago-Nw Hwy - PUI TAK JUMP START PROGRAM #2,2216 S WENTWORTH AVE, CHICAGO, IL,60616,41.852397,-87.632291,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - NEW EVERLASTING FAITH MINISTRIES,6950 S WENTWORTH, CHICAGO, IL,60621,41.767544,-87.629989,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Canaan Community Church,1701 W Garfield, Chicago, IL,60636,41.79338,-87.667216,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Universal Prayer Tower,1335 E 76th St, Chicago, IL,60619,41.756736,-87.591755,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - CPS BOWLING CAMP MORGAN PARK H.S.,1744 W Pryor Ave, Chicago, IL,60643,41.691926,-87.66577,1,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - SLC MINISTRIES INC,7400 S Saint Lawrence Ave, Chicago, IL,60619,41.76016,-87.610623,0,0,1,0,0
+Archdiocese of Chicago-Nw Hwy - Christ Temple,41 W 95th St, Chicago, IL,60628,41.72146,-87.625389,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - CPS BOWLING CAMP #2,3900 W Columbus Ave, Chicago, IL,60652,41.737208,-87.719752,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Campout-Chicago Equipping Training Center,1001 W 69th St, Chicago, IL,60621,41.768514,-87.649531,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - The Church of Ephesus,2449 W 59th St, Chicago, IL,60629,41.786366,-87.685803,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - St Thomas the Apostle,5407 S Woodlawn Ave, Chicago, IL,60615,41.797703,-87.596312,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - St. Nicholas Cathedral School,2200 W Rice St, Chicago, IL,60622,41.896997,-87.682382,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - New Life Portage Park,5700 W Berteau Ave, Chicago, IL,60634,41.957443,-87.770365,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Sacred Keepers Sustainability Lab,4445 S King Dr, Chicago, IL,60653,41.813599,-87.615967,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Bright Boys and Girls Club,10740 S Calhoun Ave, Chicago, IL,60617,41.69974,-87.562316,1,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Bethsaida MB Church,5660 S Sangamon St, Chicago, IL,60621,41.790775,-87.649023,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - God's Abounding Love Ministry,9006 S Cottage Grove Ave, Chicago, IL,60619,41.730868,-87.604903,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Centers for New Horizons - Altgeld Gardens,951 E 132nd Pl, Chicago, IL,60827,41.654823,-87.598708,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - progressive Baptist church VBC,3658 S Wentworth Ave, Chicago, IL,60609,41.827599,-87.631824,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - Saint John Church Baptist VBS,4821 S Michigan Ave, Chicago, IL,60615,41.806704,-87.622316,0,0,1,0,0
+Archdiocese of Chicago-Nw Hwy - Chicago Vocational,2100 E 87th St, Chicago, IL,60617,41.738498,-87.572519,1,0,1,0,0
+Archdiocese of Chicago-Nw Hwy - Julian Football Camp,10330 S Elizabeth St, Chicago, IL,60643,41.705946,-87.65424,1,0,1,0,0
+Archdiocese of Chicago-Nw Hwy - Akarama Community Service Center,6220 S Ingleside Ave, Chicago, IL,60637,41.78156,-87.603182,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Winners Summer Camp,7114 N Clark St, Chicago, IL,60626,42.012008,-87.674825,0,1,1,0,0
+Archdiocese of Chicago-Nw Hwy - New Hope Bible Church,1815 N Kostner Ave, Chicago, IL,60639,41.913652,-87.736203,0,0,1,0,1
+Archdiocese of Chicago-Nw Hwy - Perfected Way Ministries,2705 E 83rd St, Chicago, IL,60617,41.744056,-87.558451,0,1,1,0,0
+Chicago Park District - Rogers Elem School,7345 N Washtenaw Ave, Chicago, IL,60645,42.015283,-87.696443,0,0,1,0,1
+Chicago Park District - Sumner Elem Math & Sci Comm Acad,4320 W 5th Ave, Chicago, IL,60624,41.870573,-87.734166,1,0,1,0,1
+Chicago Park District - Stanton Park,618 W Scott St, Chicago, IL,60610,41.905087,-87.644646,0,0,1,0,1
+Chicago Park District - River Park,5100 N Francisco Ave, Chicago, IL,60625,41.973981,-87.701959,0,0,1,0,1
+Chicago Park District - Loyola Park,1230 W Greenleaf Ave, Chicago, IL,60626,42.01085,-87.661613,0,0,1,0,1
+Chicago Park District - Gill Park,825 W Sheridan Rd, Chicago, IL,60613,41.952355,-87.650594,0,0,1,0,1
+Chicago Park District - Welles Park,2333 W Sunnyside Ave, Chicago, IL,60625,41.962812,-87.686394,0,0,1,0,0
+Chicago Park District - Warren Park,6601 N Western Ave, Chicago, IL,60645,42.002228,-87.688961,0,0,1,0,1
+Chicago Park District - Green Briar Park,2650 W Peterson Ave, Chicago, IL,60659,41.990644,-87.696204,0,0,1,0,1
+Chicago Park District - Broadway Armory,5917 N Broadway St, Chicago, IL,60660,41.989597,-87.659934,0,0,1,0,1
+Chicago Park District - Lincoln Park Cultural Center,2045 N Lincoln Park W, Chicago, IL,60614,41.919662,-87.635855,0,0,1,0,1
+Chicago Park District - Anderson Park 3748,3748 S Prairie Ave, Chicago, IL,60653,41.826801,-87.620461,0,0,1,0,1
+Chicago Park District - Bessemer Park,8930 S Muskegon Ave, Chicago, IL,60617,41.733095,-87.555598,0,0,1,0,1
+Chicago Park District - Washington Park,5531 S King Dr, Chicago, IL,60617,41.793457,-87.615501,0,0,1,0,1
+Chicago Park District - Tuley Park,501 E 90th Pl, Chicago, IL,60619,41.73012,-87.6112,0,0,1,0,1
+Chicago Park District - Harris YWCA,6200 S Drexel Ave, Chicago, IL,60637,41.781934,-87.604879,0,0,1,0,1
+Chicago Park District - Kennicott Park,4434 S Lake Park Ave, Chicago, IL,60653,41.814293,-87.597285,0,1,1,0,1
+Chicago Park District - South Shore Cultural Center,500 N Dearborn St, Chicago, IL,60654,41.891102,-87.629971,1,0,1,0,1
+Chicago Park District - Jesse Owens Park,2032 E 88th St, Chicago, IL,60617,41.73523,-87.575669,0,0,1,0,1
+Chicago Park District - Avalon Park,1215 E 83rd St, Chicago, IL,60619,41.743738,-87.594186,0,0,1,0,1
+Chicago Park District - Wolfe Park-Playground,3325 E 108th St, Chicago, IL,60655,41.696776,-87.704568,0,0,1,0,1
+Chicago Park District - Gatley Park,810 E 103rd St, Chicago, IL,60628,41.70825,-87.603182,0,0,1,0,1
+Chicago Park District - West Pullman Park,401 W 123rd St, Chicago, IL,60628,41.670643,-87.630684,0,0,1,0,1
+Chicago Park District - Brainerd Park,1246 W 92nd St, Chicago, IL,60620,41.727077,-87.654913,0,0,1,0,1
+Chicago Park District - Ada Park,11250 S Ada St, Chicago, IL,60643,41.68906,-87.655679,0,0,1,0,1
+Chicago Park District - Mount Greenwood Park,3721 W 111th St, Chicago, IL,60655,41.691065,-87.713737,0,0,0,0,1
+Chicago Park District - Palmer Park,201 E 111th St, Chicago, IL,60628,41.691903,-87.616274,0,0,1,0,1
+Chicago Park District - Beverly Park,2460 W 102nd St, Chicago, IL,60655,41.708215,-87.683157,0,0,1,0,1
+Chicago Park District - Hamilton Park Day Camp,513 W 72nd St, Chicago, IL,60621,41.762875,-87.637675,0,0,1,0,1
+Chicago Park District - Hermitage Park,5839 S Wood St, Chicago, IL,60636,41.787597,-87.669264,0,0,1,0,1
+Chicago Park District - Vittum Park,5010 W 50th St, Chicago, IL,60638,41.80235,-87.748242,0,0,1,0,0
+Chicago Park District - Wilson Comm Center,3225 S Racine Ave, Chicago, IL,60608,41.835355,-87.655599,0,0,1,0,1
+Chicago Park District - West Lawn Park,4233 W 65th St, Chicago, IL,60629,41.774931,-87.728099,0,0,1,0,1
+Chicago Park District - Pasteur Park,5825 S Kostner Ave, Chicago, IL,60629,41.787148,-87.732465,1,0,1,0,0
+Chicago Park District - Durkin Park Elem School,8445 S Kolin Ave, Chicago, IL,60652,41.739047,-87.72988,1,0,1,0,1
+Chicago Park District - Wentworth Park,5625 S Mobile Ave, Chicago, IL,60638,41.790214,-87.779024,1,0,1,0,1
+Chicago Park District - McKinley Park,2210 W Pershing Rd, Chicago, IL,60609,41.823738,-87.682445,0,1,1,0,0
+Chicago Park District - Altgeld Park,515 S Washtenaw Ave, Chicago, IL,60612,41.874736,-87.693696,0,0,1,0,1
+Chicago Park District - Douglas Park,1401 S Sacramento, Chicago, IL,60623,41.863235,-87.702048,0,0,1,0,1
+Chicago Park District - Union Park,1501 W Randolph St, Chicago, IL,60607,41.885142,-87.666066,0,0,1,0,1
+Chicago Park District - Dvorak Park,1119 W Cullerton St, Chicago, IL,60608,41.855021,-87.653907,0,0,1,0,1
+Chicago Park District - McGuane Park,2901 S Poplar Ave, Chicago, IL,60608,41.841144,-87.648599,0,0,1,0,1
+Chicago Park District - Amundsen Park,6200 W Bloomingdale Ave, Chicago, IL,60639,41.913381,-87.780275,0,0,1,0,1
+Chicago Park District - Fosco Playground Park,1312 S Racine Ave, Chicago, IL,60608,41.864755,-87.657399,0,0,1,0,1
+Chicago Park District - Blackhawk Park Day Camp,2318 N Lavergne Ave, Chicago, IL,60639,41.922877,-87.751605,0,0,1,0,1
+Chicago Park District - Kelvyn Park,4438 W Wrightwood Ave, Chicago, IL,60639,41.928971,-87.738106,0,0,1,0,1
+Chicago Park District - Kilbourn Park,3501 N Kilbourn Ave, Chicago, IL,60641,41.944612,-87.739458,0,0,1,0,1
+Chicago Park District - Avondale Park,3516 W School St, Chicago, IL,60618,41.941282,-87.715246,0,0,1,0,1
+Chicago Park District - Hermosa Park,2240 N Kilbourn Ave, Chicago, IL,60639,41.922057,-87.739563,0,0,1,0,1
+Chicago Park District - Independence Day Camp,3945 N Springfield Ave, Chicago, IL,60618,41.952973,-87.724717,0,0,1,0,0
+Chicago Park District - Shabbona Park,6935 W Addison St, Chicago, IL,60634,41.945045,-87.799699,0,0,1,0,1
+Chicago Park District - Horner Park,2741 W Montrose, Chicago, IL,60618,41.960554,-87.69771,0,0,1,0,1
+Chicago Park District - Sauganash Park,5861 N Kostner Ave, Chicago, IL,60646,41.988401,-87.737399,0,0,1,0,0
+Chicago Park District - Oriole Park,5430 N Olcott Ave, Chicago, IL,60656,41.978282,-87.814456,0,0,1,0,1
+Chicago Park District - Dunham Park,4638 N Melvina Ave, Chicago, IL,60630,41.965869,-87.78234,0,0,1,0,1
+Chicago Park District - Norwood Park Fieldhouse,5801 N Natoma Ave, Chicago, IL,60631,41.986605,-87.794029,0,0,1,0,0
+Chicago Park District - Portage Park,4100 N Long Ave, Chicago, IL,60641,41.955369,-87.763589,0,0,1,0,1
+Chicago Park District - Jefferson Park,4822 N Long Ave, Chicago, IL,60630,41.968703,-87.762763,0,0,1,0,1
+Chicago Park District - Kosciuszko Park,2732 N Avers Ave, Chicago, IL,60647,41.931512,-87.723736,0,0,1,0,1
+Chicago Park District - Winnemac Park,5100 N Leavitt, Chicago, IL,60625,41.974027,-87.684238,0,0,1,0,0
+Chicago Park District - Columbus Park,500 S Central Ave, Chicago, IL,60644,41.873789,-87.764961,0,0,1,0,1
+Chicago Park District - O Hallaren Park,8335 S Honore St, Chicago, IL,60620,41.742683,-87.669272,0,0,1,0,1
+Chicago Park District - Nat King Cole Park,361 E 85th St, Chicago, IL,60619,41.740122,-87.615649,0,0,1,0,1
+Chicago Park District - Homan Square Community Center,3559 W Arthington St, Chicago, IL,60624,41.869646,-87.713457,0,0,1,1,1
+Chicago Park District - Berger Park,6205 N Sheridan Rd, Chicago, IL,60660,41.99486,-87.655109,0,0,1,0,1
+Chicago Park District - Margate Park,4921 N Marine Dr, Chicago, IL,60640,41.972088,-87.649774,0,0,1,0,1
+Chicago Park District - Emmerson Park,1820 W Granville, Chicago, IL,60660,41.99487,-87.677094,0,0,1,0,1
+Chicago Park District - Clarendon Park Day Camp,4501 N Clarendon Ave, Chicago, IL,60640,41.963677,-87.649316,0,0,1,0,1
+Chicago Park District - Pottawattomie Park,7340 N Rogers Ave, Chicago, IL,60626,42.015208,-87.678089,0,0,1,0,1
+Chicago Park District - Chippewa Park,6758 N Sacramento Ave, Chicago, IL,60645,42.004643,-87.704612,0,0,1,0,0
+Chicago Park District - Paschen Park,1932 W Lunt Ave, Chicago, IL,60626,42.009047,-87.679881,0,0,1,0,1
+Chicago Park District - Indian Boundary,2500 W Lunt Ave, Chicago, IL,60645,42.00869,-87.692372,0,0,1,0,1
+Chicago Park District - Lakeshore Park,808 N Lake Shore Dr, Chicago, IL,60611,41.897491,-87.61993,0,0,1,0,1
+Chicago Park District - Paul Revere Day Camp,2509 W Irving Park Rd, Chicago, IL,60618,41.953644,-87.692032,0,0,1,0,1
+Chicago Park District - Bradley Park-Summer Day Camp,9729 S Yates Blvd, Chicago, IL,60617,41.718049,-87.564374,0,0,1,0,1
+Chicago Park District - Euclid Park,9800 S Parnell Ave, Chicago, IL,60628,41.715721,-87.637594,0,0,1,0,1
+Chicago Park District - West Chatham Park,8223 S Princeton Ave, Chicago, IL,60620,41.744669,-87.631918,0,0,1,0,1
+Chicago Park District - Athletic Field Park,3546 W Addison St, Chicago, IL,60618,41.946721,-87.71698,0,0,1,0,1
+Chicago Park District - Eugene Field Park,5100 N Ridgeway Ave, Chicago, IL,60625,41.973987,-87.722383,0,0,1,0,1
+Chicago Park District - Chopin Park,3420 N Long Ave, Chicago, IL,60641,41.943206,-87.762451,0,0,1,0,0
+Chicago Park District - Bell Park,3020 N Oak Park Ave, Chicago, IL,60634,41.935246,-87.79602,0,0,1,0,1
+Chicago Park District - Kedvale Playground Park,4134 W Hirsch St, Chicago, IL,60651,41.906323,-87.730374,0,0,1,0,1
+Chicago Park District - Mayfair Park I,4550 W Sunnyside Ave, Chicago, IL,60630,41.963097,-87.74204,0,0,1,0,1
+Chicago Park District - Oz Park,2021 N Burling St, Chicago, IL,60614,41.9188,-87.646689,0,0,1,0,1
+Chicago Park District - Schreiber Park,1552 W Schreiber, Chicago, IL,60626,41.999016,-87.669297,0,0,1,0,1
+Chicago Park District - Sheil Park,3505 N Southport Ave, Chicago, IL,60657,41.945686,-87.663664,0,0,1,0,0
+Chicago Park District - Humboldt Park,1400 N Sacramento Ave, Chicago, IL,60622,41.906638,-87.701431,0,0,1,0,1
+Chicago Park District - Touhy Park,7348 N Paulina St, Chicago, IL,60626,42.015249,-87.672958,0,0,1,0,1
+Chicago Park District - Wrightwood Park,2534 N Greenview Ave, Chicago, IL,60614,41.928218,-87.666464,0,0,1,0,1
+Chicago Park District - Graver Park,1518 W 102nd Pl, Chicago, IL,60643,41.707435,-87.660445,0,0,1,0,1
+Chicago Park District - Fernwood Park,10436 S Wallace St, Chicago, IL,60628,41.704217,-87.638339,0,0,1,0,1
+Chicago Park District - Mann Park,13000 S Carondolet Ave, Chicago, IL,60633,41.659154,-87.549561,0,0,1,0,1
+Chicago Park District - Commercial Park,1845 W Rice St, Chicago, IL,60622,41.896629,-87.673808,0,0,1,0,1
+Chicago Park District - Eckhart Park Day Camp,1330 W Chicago Ave, Chicago, IL,60642,41.896697,-87.661407,0,0,1,0,1
+Chicago Park District - Holstein Park,2200 N Oakley Ave, Chicago, IL,60647,41.921645,-87.685087,0,0,1,0,1
+Chicago Park District - Haas Park,2402 N Washtenaw Ave, Chicago, IL,60647,41.925155,-87.695341,0,0,1,0,1
+Chicago Park District - Ken-Well Playground,2945 N Kenosha Ave, Chicago, IL,60641,41.934888,-87.733663,0,0,1,0,1
+Chicago Park District - Hiawatha Park,8029 W Forest Preserve Ave, Chicago, IL,60634,41.944182,-87.827251,0,0,1,0,1
+Chicago Park District - Olympia Park Day Camp,6566 N Avondale Ave, Chicago, IL,60631,41.999352,-87.815174,0,0,1,0,1
+Chicago Park District - Hollywood Park,3313 W Thorndale, Chicago, IL,60646,41.987482,-87.775215,0,0,1,0,1
+Chicago Park District - Russell Square Park,3045 E 83rd St, Chicago, IL,60617,41.744367,-87.549797,0,0,1,0,1
+Chicago Park District - Pulaski Park Day Camp,1419 W Blackhawk St, Chicago, IL,60631,41.906722,-87.663284,0,0,1,0,1
+Chicago Park District - Merrimac Park,6343 W Irving Park Rd, Chicago, IL,60634,41.952643,-87.785189,0,0,1,0,1
+Chicago Park District - Cragin Park,2611 N Lockwood Ave, Chicago, IL,60639,41.928173,-87.757848,0,0,1,0,1
+Chicago Park District - Riis Park,6100 W Fullerton Ave, Chicago, IL,60639,41.923738,-87.785288,0,0,1,0,1
+Chicago Park District - Peterson Park Day Camp I,5801 N Pulaski Rd Bldg J, Chicago, IL,60646,41.985787,-87.722743,0,0,1,0,1
+Chicago Park District - Fuller Park Dist,331 W 45th St, Chicago, IL,60609,41.812254,-87.634608,0,0,1,0,1
+Chicago Park District - Shedd Park,3660 W 23rd St, Chicago, IL,60623,41.850059,-87.717002,0,0,1,0,1
+Chicago Park District - Simons Park,1640 N Drake Ave, Chicago, IL,60647,41.911128,-87.715429,0,0,1,0,1
+Chicago Park District - Smith Park,2526 W Grand Ave, Chicago, IL,60612,41.891024,-87.690467,0,0,1,0,1
+Chicago Park District - Wildwood Park,6950 N Hiawatha Ave, Chicago, IL,60646,42.006884,-87.777733,0,0,0,0,1
+Chicago Park District - Wicker Park,1425 N Damen Ave, Chicago, IL,60622,41.908049,-87.676738,0,0,1,0,1
+Chicago Park District - Sayre Park,6871 W Belden, Chicago, IL,60639,41.920817,-87.797124,0,0,1,0,1
+Chicago Park District - Wilson Park,4630 N Milwaukee Ave, Chicago, IL,60630,41.964492,-87.758629,0,0,1,0,1
+Chicago Park District - Jackson Park Field House,6401 S Stony Island Ave, Chicago, IL,60637,41.777713,-87.586935,0,0,1,0,1
+Chicago Park District - Rainbow Beach Park,3111 E 79th St, Chicago, IL,60649,41.751719,-87.548714,0,0,1,0,1
+Chicago Park District - Abbott Park,49 E 95th St, Chicago, IL,60628,41.721698,-87.62223,0,0,1,0,1
+Chicago Park District - Archer Park,4901 S Kilbourn Ave, Chicago, IL,60632,41.80401,-87.735694,0,0,1,0,1
+Chicago Park District - Cornell Square Pk,1809 W 50th St, Chicago, IL,60609,41.803066,-87.67055,0,0,1,0,1
+Chicago Park District - Bosley Playground,3044 S Bonfield St, Chicago, IL,60608,41.839231,-87.653773,0,0,1,0,1
+Chicago Park District - Marquette Park Day Camp,6734 S Kedzie Ave, Chicago, IL,60629,41.770989,-87.703051,1,0,1,0,0
+Chicago Park District - Lawler Park,5210 W 65th St, Chicago, IL,60638,41.774629,-87.752244,0,0,1,0,1
+Chicago Park District - Armour Square Park,3309 S Shields Ave, Chicago, IL,60616,41.834387,-87.635211,0,1,1,0,0
+Chicago Park District - Moore Park,5085 W Adams St, Chicago, IL,60644,41.878052,-87.752747,0,0,1,0,1
+Chicago Park District - Harrison Park,1824 S Wood St, Chicago, IL,60608,41.856909,-87.671916,0,0,1,0,1
+Chicago Park District - Augusta Playground,4433 W Augusta Blvd, Chicago, IL,60651,41.898824,-87.73684,0,0,1,0,1
+Chicago Park District - Rosedale Park,6312 W Rosedale Ave, Chicago, IL,60646,41.988503,-87.785807,0,0,1,0,1
+Chicago Park District - Austin Park Dists,5610 W Lake St, Chicago, IL,60644,41.88835,-87.765806,0,0,1,0,1
+Chicago Park District - Murray Park Fieldhouse,1743 W 73rd St, Chicago, IL,60636,41.761087,-87.667889,0,0,1,0,1
+Chicago Park District - Ogden Park Fieldhouse,6500 S Racine Ave, Chicago, IL,60636,41.775051,-87.655356,0,0,1,0,1
+Chicago Park District - Gage Park,2411 W 55th St, Chicago, IL,60632,41.793585,-87.684963,0,0,1,0,1
+Chicago Park District - Minuteman Park,5940 S Central Ave, Chicago, IL,60638,41.78416,-87.762312,0,0,1,0,1
+Chicago Park District - Lindbloom,6054 S Damen Ave, Chicago, IL,60636,41.783414,-87.67468,0,0,1,0,1
+Chicago Park District - Normandy Park,6660 W 52nd St, Chicago, IL,60638,41.797772,-87.788575,0,0,1,0,1
+Chicago Park District - Moran Park,5727 S Racine Ave, Chicago, IL,60636,41.789591,-87.654743,0,0,1,0,1
+Chicago Park District - Sherman Park,1301 W 52nd St, Chicago, IL,60609,41.799267,-87.658628,0,0,1,0,1
+Chicago Park District - Valley Forge Park,7001 W 59th St, Chicago, IL,60638,41.784464,-87.796171,0,0,1,0,1
+Chicago Park District - Hayes Park,2936 W 85th St, Chicago, IL,60652,41.739006,-87.697062,0,0,1,0,1
+Chicago Park District - Le Claire Hearst Park,5120 W 44th St, Chicago, IL,60638,41.813238,-87.751456,0,0,1,0,1
+Chicago Park District - Hale Park,6258 W 62nd St, Chicago, IL,60638,41.779569,-87.777647,0,0,1,0,1
+Chicago Park District - Wilson Playground,1122 W 34th Pl, Chicago, IL,60608,41.831967,-87.654609,0,0,1,0,1
+Chicago Park District - Kelly Park,2725 W 41st St, Chicago, IL,60632,41.819061,-87.693807,0,0,1,0,1
+Chicago Park District - Sherwood Park,5701 S Shields Ave, Chicago, IL,60621,41.790591,-87.634063,0,0,1,0,1
+Chicago Park District - Rainey Park,4350 W 79th St, Chicago, IL,60652,41.750238,-87.729448,0,0,1,0,1
+Chicago Park District - Donovan Park,3620 S Lituanica Ave, Chicago, IL,60609,41.82815,-87.647895,0,0,1,0,1
+Chicago Park District - Lafollette Park,1333 N Laramie Ave, Chicago, IL,60651,41.905314,-87.755263,0,0,1,0,1
+Chicago Park District - Senka Park,5626 S St Louis Ave, Chicago, IL,60629,41.790956,-87.710851,0,0,1,0,1
+Chicago Park District - Bogan Park,3939 W 79th St, Chicago, IL,60652,41.748764,-87.720672,1,0,1,0,1
+Chicago Park District - Kenwood-Shoe Smith Park Dist,1330 E 50th St, Chicago, IL,60615,41.804759,-87.59434,1,0,1,0,1
+Chicago Park District - Robichaux Park,9247 S Eggleston Ave, Chicago, IL,60620,41.72632,-87.634356,0,0,1,0,1
+Chicago Park District - Rowan Park,11546 S Avenue L, Chicago, IL,60617,41.684903,-87.537315,0,0,1,0,1
+Chicago Park District - Wendell Smith Park,9912 S Princeton, Chicago, IL,60643,41.713897,-87.631219,0,0,1,0,1
+Chicago Park District - McKiernan Park,10714 S Sawyer Ave, Chicago, IL,60655,41.698355,-87.70248,0,0,0,0,1
+Chicago Park District - Washtenaw Playground,2521 S Washtenaw Ave, Chicago, IL,60608,41.84585,-87.692629,0,0,1,0,1
+Chicago Park District - Piotrowski Park Day Camp,4247 W 31st St, Chicago, IL,60623,41.836505,-87.730851,0,0,1,0,1
+Chicago Park District - Skinner Playground,1331 W Monroe St, Chicago, IL,60607,41.880042,-87.661428,0,0,1,0,1
+Chicago Park District - Oakdale Park,965 W 95th St, Chicago, IL,60643,41.721005,-87.648512,0,0,1,0,1
+Chicago Park District - Clark Park,4615 W Jackson Blvd, Chicago, IL,60644,41.876723,-87.740962,0,0,1,0,1
+Chicago Park District - Dooley Park,3402 W 77th St, Chicago, IL,60652,41.75339,-87.707453,0,0,1,0,1
+Chicago Park District - Meyering Playground Park Dist,7140 S King Dr, Chicago, IL,60619,41.764769,-87.615254,0,0,1,0,1
+Chicago Park District - Carver Park,939 E 132nd St, Chicago, IL,60827,41.655837,-87.598625,0,0,1,0,1
+Chicago Park District - Calumet Park,9801 S Avenue G, Chicago, IL,60617,41.71783,-87.530644,0,1,1,0,0
+Chicago Park District - Ed White Park,1120 W 122nd St, Chicago, IL,60643,41.672242,-87.649898,0,1,1,0,1
+Chicago Park District - Dawes Park,8040 S Damen Ave, Chicago, IL,60620,41.747316,-87.673078,0,0,1,0,1
+Chicago Park District - Brands Park,3259 N Elston Ave, Chicago, IL,60618,41.940527,-87.699785,0,0,1,0,1
+Chicago Park District - Lowe Park,5203 S Lowe Ave, Chicago, IL,60609,41.799596,-87.641613,0,0,1,0,1
+Chicago Park District - Trumbull Park,2400 E 105th St, Chicago, IL,60617,41.704573,-87.565666,0,0,1,0,1
+Chicago Park District - Williams Park,2710 S Dearborn St, Chicago, IL,60616,41.844179,-87.62886,0,1,1,0,1
+Chicago Park District - Lake Meadows Park,3117 S Rhodes, Chicago, IL,60616,41.837651,-87.611568,0,0,1,0,1
+Chicago Park District - Foster Park 1,1440 W 84th St, Chicago, IL,60620,41.741704,-87.660008,0,0,1,0,1
+Chicago Park District - John C Haines Park,247 W 23rd Pl, Chicago, IL,60616,41.849762,-87.633901,1,0,1,0,1
+Chicago Park District - Don Nash Comm Center,1833 E 71st St, Chicago, IL,60649,41.765817,-87.579949,0,0,1,0,1
+Chicago Park District - Curie Park,4949 S Archer Ave, Chicago, IL,60632,41.80258,-87.722943,0,0,1,0,1
+Chicago Park District - The Park At NTA,55 W 22nd St, Chicago, IL,60616,41.852134,-87.634784,0,0,1,0,1
+Chicago Park District - Mozart Park,2036 N Avers Ave, Chicago, IL,60647,41.917651,-87.72352,0,0,1,0,1
+Chicago Park District - Garfield Park,100 N Central Park Ave, Chicago, IL,60624,41.88142,-87.715891,0,0,1,0,1
+Chicago Park District - Franklin Park 202,4320 W 15th St, Chicago, IL,60623,41.861102,-87.733074,0,0,1,0,1
+Chicago Park District - Galewood Park,5729 W Bloomingdale Ave, Chicago, IL,60639,41.912429,-87.768985,0,0,1,0,1
+Chicago Park District - Scottsdale Park,4637 W 83rd St, Chicago, IL,60652,41.741719,-87.736067,0,0,1,0,1
+Chicago Park District - Woodhull Playground,7340 S East End Ave, Chicago, IL,60649,41.76217,-87.58372,0,0,1,0,1
+Chicago Park District - Cooper Park,1323 W 117th St, Chicago, IL,60643,41.681253,-87.655112,0,0,1,0,1
+Chicago Park District - Adams Playground,1919 N Seminary Ave, Chicago, IL,60614,41.916482,-87.655088,0,0,1,0,0
+Chicago Park District - Grand Crossing Park,7655 S Ingleside Ave, Chicago, IL,60619,41.755693,-87.601219,0,0,1,0,1
+Chicago Park District - Veterans Memorial Park,2820 E 98th St, Chicago, IL,60617,41.717648,-87.555844,0,0,1,0,1
+Chicago Park District - Nichols Park,1355 E 53rd St, Chicago, IL,60615,41.79947,-87.592545,0,0,1,0,1
+Chicago Park District - Jackie Robinson Park,10540 S Morgan St, Chicago, IL,60643,41.702288,-87.648384,0,0,1,0,1
+Chicago Park District - Robert Taylor Park,39 W 47th St, Chicago, IL,60609,41.809183,-87.627631,0,0,1,0,1
+Chicago Park District - Seward Park,375 W Elm St, Chicago, IL,60610,41.902825,-87.637418,0,0,1,0,1
+Chicago Park District - Taylor Lauridsen Park,704 W 42nd St, Chicago, IL,60609,41.817903,-87.643765,0,0,1,0,1
+Chicago Park District - Gompers,4222 W Foster Ave, Chicago, IL,60630,41.97629,-87.736666,0,0,1,0,1
+Chicago Park District - Chase Culture Program,4701 N Ashland Ave, Chicago, IL,60640,41.967679,-87.668851,0,0,1,0,1
+Chicago Park District - Willye White Park,1610 W Howard, Chicago, IL,60626,42.019617,-87.671293,0,0,1,0,1
+Chicago Park District - Tarkington Park,3344 W 71st St, Chicago, IL,60629,41.764707,-87.707019,0,0,1,0,1
+Chicago Park District - Davis Square Park,4430 S Marshfield Ave, Chicago, IL,60609,41.813237,-87.666885,0,0,1,0,1
+Chicago Park District - Douglas TR,1401 S Sacramento Dr, Chicago, IL,60623,41.863235,-87.702048,0,0,1,1,1
+Chicago Park District - Wentworth Gardens,3770 S Wentworth Ave, Chicago, IL,60609,41.825545,-87.631754,0,0,1,0,1
+Chicago Park District - Chicago Womens Park,1801 S Indiana Ave, Chicago, IL,60616,41.857659,-87.622016,0,0,1,0,1
+Chicago Park District - Gage TR,2411 W 55th Street, Chicago, IL,60629,41.793585,-87.684963,0,0,1,0,1
+Chicago Park District - Mandrake,900 E. Mandrake, Chicago, IL,60653,41.823338,-87.607035,0,0,1,0,1
+Chicago Park District - HORNER CAMP SIGN,2741 W. Montrose, Chicago, IL,60618,41.960554,-87.69771,0,0,1,0,1
+Chicago Park District - Daley Bicentennial Park,337 E Randolph Dr, Chicago, IL,60601,41.882789,-87.618923,0,0,0,0,1
+Chicago Park District - Ping Tom,1700 S. Wentworth Ave., Chicago, IL,60616,41.858828,-87.631936,0,0,1,0,1
+Chicago Park District - Warren Special Event,6601 N. Western, Chicago, IL,60645,42.002228,-87.688961,0,0,1,0,0
+For Your Consciousness Ministrie - Bethel Imani Lutheran Church,6201 S Sangamon St, Chicago, IL,60621,41.781173,-87.648135,0,1,1,0,0
+For Your Consciousness Ministrie - For Your Consciousness Ministrie,1923 W 51st St, Chicago, IL,60609,41.800995,-87.673022,0,1,1,0,0
+For Your Consciousness Ministrie - Pleasant Hill M. B. Church,7950 S. Normal, Chicago, IL,60620,41.7493,-87.636937,0,1,1,0,0
+For Your Consciousness Ministrie - Univeral   Temple,4154 W Lake St, Chicago, IL,60624,41.885981,-87.730428,0,1,1,0,0
+New Mt Calvary MB Church Chicago - New Mt Calvary MB Church Chicago,1850 W Marquette Rd, Chicago, IL,60636,41.772321,-87.670837,0,1,1,0,0
+Bibleway Apostolic Faith Church - No. Lawndale Coll Prep Football Collins Academy,1313 S Sacramento Dr,Chicago,IL,60623,41.864363,-87.70107,1,0,0,1,0
+New Life Community Ministries - Green Grove M B Church,1049 W Marquette Rd,Chicago,IL,60621,41.772361,-87.651,0,1,1,0,0
+New Life Community Ministries - gifts from God,1818 west 74th street,chicago,IL,60636,41.759553,-87.669428,0,1,1,0,0
+New Life Community Ministries - Maple Park UMC,11705 S. Elizabeth,Chicago,IL,60643,41.681032,-87.652741,0,1,1,0,0
+New Life Community Ministries - Christian Fellowship Flock,10724 S. Ewing,Chicago,IL,60617,41.700115,-87.535675,0,1,1,0,0
+New Life Community Ministries - Generation to Generation UMC,11731 S. Avenue,Chicago,IL,60617,41.691972,-87.52823,0,1,1,0,0
+New Life Community Ministries - Mission Cristitiana Elim,1615 W. Morse Ave,Chicago,IL,60626,42.007507,-87.670639,0,1,1,0,0
+New Life Community Ministries - Shalom,1400 N. Ridgeway,Chicago,IL,60651,41.906481,-87.720572,0,1,1,0,0
+New Life Community Ministries - St. Matthew UMC,1000 N Orleans,Chicago,IL,60610,41.90089,-87.637648,0,1,1,0,0
+New Life Community Ministries - apostolic assembly church,10708 vincennes ave,chicago,IL,60643,41.699386,-87.658764,0,1,1,0,0
+New Life Community Ministries - christian faith fellowship,1140 west 59th,chicago,IL,60629,41.787145,-87.653928,0,1,1,0,0
+New Life Community Ministries - Colonial,12814 S. Lowe,Chicago,IL,60607,41.66093,-87.638191,0,1,1,0,0
+New Life Community Ministries - Covenant Faith,10505 S Halsted,Chicago,IL,60661,41.70312,-87.642508,0,1,1,0,0
+New Life Community Ministries - Hope Presbyterian,1354 W. 61st,Chicago,IL,60636,41.783324,-87.659178,0,1,1,0,0
+New Life Community Ministries - Sheldon Heights,11325 S. Halsted,Chicago,IL,60628,41.687915,-87.64187,0,1,1,0,0
+New Life Community Ministries - Christ Centered Ministries,1533 W. Drake,Chicago,IL,60623,41.859808,-87.713733,0,1,1,0,0
+New Life Community Ministries - Greater St. John,1256 N. Waller,Chicago,IL,60651,41.90369,-87.768527,0,1,1,0,0
+New Life Community Ministries - Family Empowerment Center,1533 W. Devon,Chicago,IL,60660,41.997859,-87.669138,0,1,1,0,0
+New Life Community Ministries - First Congregational Church,1305 N. Hamlin,Chicago,IL,60651,41.904786,-87.721145,0,1,1,0,0
+New Life Community Ministries - Greater Galilee,1308 S. idependence,Chicago,IL,60624,41.864002,-87.720515,0,1,1,0,0
+New Life Community Ministries - New Life Centers,1410 N. Springfield,Chicago,IL,60651,41.906703,-87.724296,0,1,1,0,0
+New Life Community Ministries - Wendell Green Boys & Girls,1150 W 96th St,Chicago,IL,60643,41.719522,-87.652394,1,1,1,0,0
+New Life Community Ministries - Grace Family Worship,12735 S Halsted St,Chicago,IL,60628,41.662384,-87.641027,0,1,1,0,0
+New Life Community Ministries - True Love MBC,105 N Laramie Ave,Chicago,IL,60644,41.882623,-87.754804,0,1,1,0,0
+Hopewell Primitive Baptist Church - Hopewell Primitive Baptist Church,1400 S Kolin Ave,Chicago,IL,60623,41.862139,-87.733961,0,1,1,0,0
+Faith Miracle Temple Church - New First Deliverance MB Church,1539 S. Christiana,Chicago,IL,60623,41.85972,-87.708776,0,1,1,0,0
+Faith Miracle Temple Church - Girls of Grace,1125 W 95th St,Chicago,IL,60643,41.721098,-87.651611,0,1,1,0,0
+The Lords Way Missionary - The Lords Way Missionary,1250 E 75th St,Chicago,IL,60619,41.758899,-87.593461,0,1,1,0,0
+Noble Street Charter Schools - Noble St Chtr Rauner College Prep,1337 W Ohio St,Chicago,IL,60642,41.892253,-87.661237,0,1,1,0,0
+Noble Street Charter Schools - Noble St Chtr-UIC College Prep,1231 S Damen Ave,Chicago,IL,60608,41.865384,-87.67574,0,1,1,0,0
+Noble Street Charter Schools - Noble Street Charter School Day Camp,1010 N Noble St,Chicago,IL,60642,41.900028,-87.66286,0,1,1,0,0
+Noble Street Charter Schools - Noble St Chtr-Chicago Bulls Prep,2040 W Adams St,Chicago,IL,60612,41.879092,-87.67842,0,1,1,0,0
+Noble Street Charter Schools - Noble St Chtr-Muchin College Prep,1 N State St,Chicago,IL,60602,41.882414,-87.627249,0,1,1,0,0
+Noble Street Charter Schools - Golder College Prep,1454 W Superior St,Chicago,IL,60642,41.895495,-87.664437,0,0,1,0,0
+Catholic Charities of Archdioces - Carver Military Academy HS,13100 S Doty Ave,Chicago,IL,60827,41.656615,-87.589354,1,1,1,0,0
+Catholic Charities of Archdioces - Fenger Academy High School,11220 S Wallace St,Chicago,IL,60628,41.68968,-87.638355,1,0,1,0,0
+Catholic Charities of Archdioces - MO Leone Park,1222 W Touhy Ave,Chicago,IL,60626,42.013159,-87.66253,0,0,1,0,0
+Catholic Charities of Archdioces - Rose Of Light Church,1302 W 74th St,Chicago,IL,60636,41.759799,-87.65767,0,1,1,0,0
+Catholic Charities of Archdioces - St Joseph Services,1041 N Campbell,Chicago,IL,60622,41.900409,-87.689389,0,1,1,0,0
+Catholic Charities of Archdioces - MO St John De La Lasalle,10205 S King Dr,Chicago,IL,60628,41.708917,-87.613703,0,0,1,0,0
+Catholic Charities of Archdioces - South Central Community Services,1021 E 83rd St,Chicago,IL,60619,41.74378,-87.599489,0,1,1,0,0
+Catholic Charities of Archdioces - MO Concordia Apartments,13105 S Daniel Dr,Chicago,IL,60627,41.657316,-87.615921,0,0,1,0,0
+Catholic Charities of Archdioces - MO Leigh Johnson Courts,1108 E 73rd St,Chicago,IL,60619,41.762414,-87.597319,0,0,1,0,0
+Catholic Charities of Archdioces - MO Park Shore East Cooperative,1561 E 61st St,Chicago,IL,60637,41.78379,-87.587974,0,0,1,0,0
+Catholic Charities of Archdioces - MO Sokol Social Athletic Club,10756 South Green Bay Ave,Chicago,IL,60617,41.699266,-87.541693,0,0,1,0,0
+Catholic Charities of Archdioces - MO Krause Playlot,10556 S Ave L,Chicago,IL,60617,41.702949,-87.536836,0,0,1,0,0
+Catholic Charities of Archdioces - MO Medill Park,1326 W 14th Pl,Chicago,IL,60608,41.862714,-87.660139,0,0,1,0,0
+Catholic Charities of Archdioces - MO Bloomindale Apartments,1745 N Keystone,Chicago,IL,60639,41.913008,-87.727139,0,0,1,0,0
+Catholic Charities of Archdioces - MO Wentworth Commons,11045 S Wentworth Ave,Chicago,IL,60628,41.69309,-87.627672,0,0,1,0,0
+Catholic Charities of Archdioces - In Hands Youth Outreach,11256 S State St,Chicago,IL,60628,41.689135,-87.623237,0,1,1,0,0
+Catholic Charities of Archdioces - Erie Neighborhood House,1347 West Erie,Chicago,IL,60642,41.89317,-87.661417,0,0,1,0,0
+Catholic Charities of Archdioces - New St. Paul COGIC,2113 W. Marquette Road,Chicago,IL,60636,41.77183,-87.676817,0,1,1,0,0
+Catholic Charities of Archdioces - Live To Dream,12900 S. Halsted,Chicago,IL,60628,41.659438,-87.64167,0,1,1,0,0
+Catholic Charities of Archdioces - SE: Chicago LAMP,1301 S. Sawyer Ave,Chicago,IL,60623,41.864345,-87.706473,0,0,1,1,0
+Catholic Charities of Archdioces - SE: Carole Roberston Center for Learning,1898 S. Albany Ave,Chicago,IL,60623,41.85552,-87.702869,0,0,1,0,0
+Catholic Charities of Archdioces - MO-Madison Terrance Apt,3141 W. Madison,Chicago,IL,60612,41.880621,-87.704544,0,0,1,0,0
+Catholic Charities of Archdioces - Big Hugs For Little Hands,10623 S Halsted St,Chicago,IL,60628,41.700726,-87.642259,0,1,1,0,0
+Catholic Charities of Archdioces - Ordained of God Full Gospel Church,13750 S Leyden Ave,Chicago,IL,60827,41.645366,-87.616064,0,1,1,0,0
+Catholic Charities of Archdioces - SE. Brighton Park Elementary,3825 S Washtenaw Ave,Chicago,IL,60632,41.823999,-87.691862,0,0,1,0,0
+Catholic Charities of Archdioces - SE. Ida B Wells,3845 S Vincennes Ave,Chicago,IL,60653,41.824431,-87.612302,0,0,1,0,0
+Catholic Charities of Archdioces - MapsCorps,1212 E 59th St,Chicago,IL,60637,41.788211,-87.59558,0,1,0,0,0
+Catholic Charities of Archdioces - Life Development Center,824 E 43rd St,Chicago,IL,60653,41.816953,-87.605561,0,1,1,0,0
+Catholic Charities of Archdioces - Breakthrough Urban Ministries,348 N Saint Louis Ave,Chicago,IL,60624,41.887782,-87.71394,0,0,1,0,0
+Catholic Charities of Archdioces - West Side Health Authority,1100 N. Long,Chicago,IL,60639,41.900373,-87.760842,0,0,1,0,0
+Catholic Charities of Archdioces - SGA Family and Youth Services,138 W 109th St,Chicago,IL,60628,41.696449,-87.627057,0,0,1,0,0
+Catholic Charities of Archdioces - Impact Family Center,658 E 92nd St,Chicago,IL,60619,41.727493,-87.607253,0,0,1,0,0
+Catholic Charities of Archdioces - MO - Wolfe Playground,3325 E. 108th St,Chicago,IL,60617,41.698953,-87.543514,0,0,1,0,0
+Greater Chicago Food Depository - Chicago West Side Christian Sch,1240 S Pulaski,Chicago,IL,60623,41.865214,-87.725466,0,1,1,0,0
+Catholic Charities of Archdioces - Robeson High School,6835 S Normal Blvd,Chicago,IL,60621,41.770252,-87.636872,1,1,1,1,1
+Greater Chicago Food Depository - Douglass Academy High School,543 N Waller Ave,Chicago,IL,60644,41.890386,-87.767148,1,0,0,1,1
+Greater Chicago Food Depository - Fourth Presbyterian Church,126 E Chestnut St,Chicago,IL,60611,41.898758,-87.625148,0,1,1,0,0
+Greater Chicago Food Depository - Chinese Mutual Aid Assn,1016 W Argyle St,Chicago,IL,60640,41.973474,-87.655712,0,1,1,0,0
+Greater Chicago Food Depository - Lakeside Square Apts,920 W Lakeside Pl,Chicago,IL,60640,41.968504,-87.653546,0,0,1,0,1
+Greater Chicago Food Depository - Alternatives Inc,4730 N Sheridan Rd,Chicago,IL,60640,41.968157,-87.655004,0,1,1,0,0
+Greater Chicago Food Depository - True Light Baptist Church,7300 S Maryland Ave,Chicago,IL,60619,41.762068,-87.604513,0,1,1,0,1
+Greater Chicago Food Depository - South Side Help Center,10420 S Halsted,Chicago,IL,60628,41.70444,-87.643248,0,1,1,0,0
+Greater Chicago Food Depository - West Pullman Church Of God,322 W 119th St,Chicago,IL,60628,41.678129,-87.630779,0,0,1,0,0
+Greater Chicago Food Depository - Casa Juan Diego,2020 S Blue Island Ave,Chicago,IL,60608,41.854586,-87.664295,0,1,1,0,0
+Greater Chicago Food Depository - Westside Health Authority,5437 W Division St,Chicago,IL,60651,41.902013,-87.762433,0,1,1,0,0
+Greater Chicago Food Depository - Youth Service Project Inc,3942 W North Ave,Chicago,IL,60647,41.910243,-87.725518,0,1,1,0,0
+Greater Chicago Food Depository - Horner 1815,1815 W Monroe St,Chicago,IL,60612,41.879714,-87.672289,0,1,1,0,0
+Greater Chicago Food Depository - St Agatha Family Empowerment,3147 W Douglas Blvd,Chicago,IL,60623,41.86229,-87.704949,0,1,1,0,0
+Greater Chicago Food Depository - New Foundation  Baptist Church,10632 S Wentworth Ave,Chicago,IL,60628,41.700583,-87.628446,0,0,1,0,0
+Greater Chicago Food Depository - Garfield Park Community Worship Center,4100 W Jackson Blvd,Chicago,IL,60624,41.87729,-87.72817,0,0,1,1,0
+Greater Chicago Food Depository - CYC - Rebecca K Crown Center,218 S Wabash Ave Ste 600,Chicago,IL,60604,41.878897,-87.62639,0,0,0,1,0
+Greater Chicago Food Depository - YMCA - High Ridge,2424 W Touhy Ave,Chicago,IL,60645,42.012647,-87.691529,0,1,1,0,0
+Greater Chicago Food Depository - YMCA - South Side,6330 S Stony Island Ave,Chicago,IL,60637,41.779745,-87.587419,0,1,1,0,0
+Greater Chicago Food Depository - YMCA - South Chicago,3039 E 91st St,Chicago,IL,60617,41.729784,-87.549161,0,1,1,0,0
+Greater Chicago Food Depository - YMCA - McCormick Tribune PreK,1834 N Lawndale Ave,Chicago,IL,60647,41.914801,-87.719748,0,1,1,0,0
+Greater Chicago Food Depository - Church of God Comm Day Care Ctr,1738 W Marquette Rd,Chicago,IL,60636,41.772361,-87.668082,0,0,1,0,1
+Greater Chicago Food Depository - First Prebyterian Church,6400 S Kimbark Ave,Chicago,IL,60637,41.778385,-87.595064,0,0,1,0,0
+Greater Chicago Food Depository - Better Boys Foundation,1512 S Pulaski Rd,Chicago,IL,60623,41.86036,-87.72534,0,1,1,0,0
+Greater Chicago Food Depository - YMCA - Rauner Family,2700 S Western Ave,Chicago,IL,60608,41.843928,-87.686306,0,1,1,0,0
+Greater Chicago Food Depository - Kidwatch Plus Inc,3901 N Ridgeway Ave,Chicago,IL,60618,41.952388,-87.720839,0,0,1,0,1
+Greater Chicago Food Depository - Charles A Hayes Family Invest,4455 S King Dr,Chicago,IL,60653,41.81325,-87.615882,0,0,1,0,0
+Greater Chicago Food Depository - CYC Elliott Donnelley Youth Center,3947 S Michigan Ave,Chicago,IL,60653,41.822431,-87.622705,0,0,1,0,1
+Greater Chicago Food Depository - Albany Child Care Center,520 N Halsted St Ste 412,Chicago,IL,60642,41.891591,-87.647639,0,0,1,0,1
+Greater Chicago Food Depository - Edgewater Baptists Church,1401 W Hollywood Ave,Chicago,IL,60660,41.985195,-87.66523,0,0,1,0,1
+Greater Chicago Food Depository - Immaculate Conception,8739 S Exchange Ave,Chicago,IL,60617,41.735851,-87.552764,0,1,1,0,0
+Greater Chicago Food Depository - North Point Advancement Center,7655 N Ashland Ave,Chicago,IL,60626,42.020939,-87.670362,0,1,1,0,0
+Greater Chicago Food Depository - Victory Cathedral Faith Church,10441 S Racine Ave,Chicago,IL,60643,41.703883,-87.65204,0,1,1,0,0
+Greater Chicago Food Depository - Ness,4531 N Hazel St,Chicago,IL,60640,41.96467,-87.652205,0,1,1,0,0
+Greater Chicago Food Depository - St Thomas Lutheran Church,8000 S Jeffery Blvd,Chicago,IL,60617,41.749762,-87.575964,0,0,1,0,1
+Greater Chicago Food Depository - BUILD Inc,1237 N California Ave,Chicago,IL,60622,41.904039,-87.696507,0,0,1,0,1
+Greater Chicago Food Depository - Olive Harvey College Learning Center,10001 S Woodlawn Ave,Chicago,IL,60628,41.710537,-87.592116,0,1,1,0,0
+Greater Chicago Food Depository - South Shore Drill Team,7200 S Ingleside Ave,Chicago,IL,60619,41.764069,-87.602436,0,0,0,1,1
+Greater Chicago Food Depository - Family Focus,3517 W Arthington St,Chicago,IL,60624,41.869405,-87.713764,0,0,1,0,1
+Greater Chicago Food Depository - Gallery 37 Center For The Arts,66 E Randolph St,Chicago,IL,60601,41.884821,-87.625485,0,0,1,0,0
+Greater Chicago Food Depository - Southwest Montessori School,8620 S Racine Ave,Chicago,IL,60620,41.737023,-87.653618,0,0,1,0,0
+Greater Chicago Food Depository - Westlawn Gospel Chapel,2115 S Saint Louis Ave,Chicago,IL,60623,41.85309,-87.712024,0,1,1,0,0
+Greater Chicago Food Depository - Christian Service Center,4750 W Washington Blvd,Chicago,IL,60644,41.882044,-87.744875,0,0,1,0,0
+Greater Chicago Food Depository - Friendship Baptist Church,5200 W Jackson Blvd,Chicago,IL,60644,41.87691,-87.755359,0,1,1,0,0
+Greater Chicago Food Depository - Interfaith Refugee Youth Program,1212 W Balmoral Ave,Chicago,IL,60640,41.980145,-87.660939,0,0,1,0,1
+Greater Chicago Food Depository - St Paul Church Summer Camp,4526 S Wabash Ave,Chicago,IL,60653,41.812296,-87.625001,0,0,1,0,1
+Greater Chicago Food Depository - Providence Missionary Baptist Church,8401 S Ashland Ave,Chicago,IL,60620,41.740958,-87.66271,0,1,1,0,0
+Greater Chicago Food Depository - Golden Gate Day Care Center,432 E 134th St,Chicago,IL,60827,41.651084,-87.610857,0,1,1,0,0
+Greater Chicago Food Depository - Chicago State University,8751 S Greenwood Ave Ste 100,Chicago,IL,60619,41.735095,-87.595836,0,0,1,0,1
+Greater Chicago Food Depository - Jewish Child and Family Services,3145 W Pratt Blvd,Chicago,IL,60645,42.003677,-87.708897,0,0,1,0,0
+Greater Chicago Food Depository - Mercy Housing Programs,4943 W Quincy St,Chicago,IL,60644,41.877365,-87.749064,0,0,1,0,0
+Greater Chicago Food Depository - Commonwealth Comm Church,140 W 81st St,Chicago,IL,60620,41.747499,-87.628499,0,1,1,0,0
+Greater Chicago Food Depository - Parkway Gardens Christain Church,6600 S King Dr,Chicago,IL,60637,41.774659,-87.616267,0,0,0,1,1
+Greater Chicago Food Depository - Miguel Barreto ULBGC,1214 N Washtenaw Ave,Chicago,IL,60622,41.903609,-87.694978,0,1,1,0,0
+Greater Chicago Food Depository - ULBGC One,2157 W 19th St,Chicago,IL,60608,41.855523,-87.680618,0,1,1,0,0
+Greater Chicago Food Depository - Park Manor Christian Church,600 E 73rd St,Chicago,IL,60619,41.762292,-87.610048,0,1,1,0,0
+Greater Chicago Food Depository - Little Black Pearl,1060 E 47th St,Chicago,IL,60653,41.809943,-87.599608,0,1,1,0,0
+Greater Chicago Food Depository - Living Water Comm Church,6808 N Ashland Blvd,Chicago,IL,60626,42.00569,-87.670185,0,0,0,0,1
+Greater Chicago Food Depository - St Mark United Methodist Church,8441 S Saint Lawrence Ave,Chicago,IL,60619,41.740827,-87.609782,0,1,1,0,0
+Greater Chicago Food Depository - Instituto Del Progreso Latino,2520 S Western,Chicago,IL,60608,41.845752,-87.685857,0,1,1,0,0
+Greater Chicago Food Depository - Jackson Blvd Christian Church,2413 W Jackson Blvd,Chicago,IL,60612,41.877306,-87.687142,0,0,1,0,0
+Greater Chicago Food Depository - New Beginnings Church of Chicago,6620 S King Dr,Chicago,IL,60637,41.774036,-87.615883,0,1,1,0,0
+Greater Chicago Food Depository - Chatham Fields,8050 S Saint Lawrence Ave,Chicago,IL,60619,41.747768,-87.610372,0,1,1,0,0
+Greater Chicago Food Depository - Gary Comer Youth Center,7131 S South Chicago Ave,Chicago,IL,60619,41.765196,-87.604002,0,1,1,0,0
+Greater Chicago Food Depository - Chatham Avalon Nursery School,26 E 79th St,Chicago,IL,60619,41.751176,-87.623515,0,1,1,0,0
+Greater Chicago Food Depository - True to Life Foundation,1712 E 87th St,Chicago,IL,60617,41.737137,-87.582164,0,0,1,0,1
+Greater Chicago Food Depository - Maternity BVM School,3647 W North Ave,Chicago,IL,60647,41.909662,-87.718208,0,1,1,0,0
+Greater Chicago Food Depository - Housing Opportunities For Women,1607 W Howard St,Chicago,IL,60626,42.019098,-87.671527,0,0,1,0,0
+Greater Chicago Food Depository - Indo American Center,6328 N California Ave,Chicago,IL,60659,41.996596,-87.699933,0,0,1,0,0
+Greater Chicago Food Depository - Operation Restoration Dev Center,8758 S Peoria St,Chicago,IL,60620,41.734723,-87.645881,0,1,1,0,0
+Greater Chicago Food Depository - Smart Kids,556 W 51st Street,Chicago,IL,60616,41.801699,-87.640425,0,0,1,0,0
+Greater Chicago Food Depository - West Communities YMCA,6235 S Homan Ave,Chicago,IL,60629,41.779543,-87.707663,0,1,1,0,0
+Greater Chicago Food Depository - Dawson Skill Center,3901 S State St,Chicago,IL,60609,41.822774,-87.625998,0,1,1,0,0
+Greater Chicago Food Depository - Kelly Hall YMCA,824 N Hamlin Ave,Chicago,IL,60651,41.896064,-87.721559,0,1,1,0,0
+Greater Chicago Food Depository - Lawndale Gardens,2718 W 26th St,Chicago,IL,60608,41.844816,-87.69357,0,1,1,0,0
+Greater Chicago Food Depository - Horner West Haven,2147 W Maypole,Chicago,IL,60612,41.88374,-87.680986,0,1,1,0,0
+Greater Chicago Food Depository - Neighborhood Boys and Girls Club,2501 W Irving Park Rd,Chicago,IL,60618,41.953657,-87.69131,0,1,0,0,1
+Greater Chicago Food Depository - Ickes Bridgeport,3122 S Green St,Chicago,IL,60608,41.836321,-87.64723,0,1,1,0,0
+Greater Chicago Food Depository - Major Adams Community,125 N Hoyne,Chicago,IL,60612,41.883849,-87.678581,0,1,1,0,0
+Greater Chicago Food Depository - KLEO Community Family Life,119 E Garfield Blvd,Chicago,IL,60637,41.794097,-87.621743,0,1,1,0,0
+Abundant Favor Worship Ctr - ArtZ for Change,400 W 76th St,Chicago,IL,60620,41.756497,-87.635087,0,1,1,0,0
+Greater Chicago Food Depository - CYC - ABC Family Center,3415 W 13th Pl,Chicago,IL,60623,41.863846,-87.711146,0,0,0,1,0
+Greater Chicago Food Depository - Universal Family Connection Inc,1350 W 103rd St,Chicago,IL,60643,41.707037,-87.657152,0,0,1,0,1
+Greater Chicago Food Depository - 002nd District CAPS,5101 S Wentworth St,Chicago,IL,60609,41.801751,-87.630696,0,0,1,0,1
+Greater Chicago Food Depository - Back to God Church Summer Soul Camp,7326 S Racine Ave,Chicago,IL,60636,41.760639,-87.654323,0,0,1,0,0
+Greater Chicago Food Depository - Little Angels Academy Kindergarten,10501 S Torrence Ave,Chicago,IL,60617,41.704557,-87.559602,0,0,1,0,1
+Greater Chicago Food Depository - Dearborn,2931 S  Federal St,CHICAGO,IL,60616,41.840981,-87.628726,0,1,1,0,0
+Greater Chicago Food Depository - Washington Park,713 E 45th St,Chicago,IL,60653,41.812951,-87.608814,0,1,1,0,0
+Greater Chicago Food Depository - Washington Park,4021 S Prairie Ave Apt 101,Chicago,IL,60653,41.821399,-87.6199,0,1,1,0,0
+Greater Chicago Food Depository - Family Matters,7731 N Marshfield Ave,Chicago,IL,60626,42.022059,-87.671575,0,0,1,0,0
+Greater Chicago Food Depository - Blackstone Bicycle Works,6100 S Blackstone Ave,Chicago,IL,60637,41.784136,-87.59059,0,1,1,0,0
+Greater Chicago Food Depository - Marillac House Food Pantry,2859 W Jackson Blvd,Chicago,IL,60612,41.877124,-87.698431,0,1,1,0,0
+Greater Chicago Food Depository - Greater King David Church,4921 S Prairie Ave,Chicago,IL,60615,41.804985,-87.619079,0,1,1,0,0
+Greater Chicago Food Depository - MO Good Shepherd Church,2735 South Kolin Avenue,Chicago,IL,60623,41.840761,-87.732598,0,0,1,0,0
+Greater Chicago Food Depository - MO St Pancratius,4025 South Sacramento Ave,Chicago,IL,60632,41.819714,-87.699127,0,0,1,0,0
+Greater Chicago Food Depository - Altgeld,742 E 133rd Place,Chicago,IL,60827,41.653243,-87.602759,0,1,1,0,0
+Greater Chicago Food Depository - Parkway Gardens,6415 S Calument Ave,Chicago,IL,60637,41.777043,-87.617209,0,1,1,0,0
+Greater Chicago Food Depository - United In Love,7010 S Halsted,Chicago,IL,60624,41.766533,-87.644803,0,1,1,0,0
+Greater Chicago Food Depository - Altgeld 13136,13136 S Langley,Chicago,IL,60627,41.656003,-87.605442,0,1,1,0,0
+Greater Chicago Food Depository - Altgeld 656A,656A E 133rd St,Chicago,IL,60627,41.653722,-87.60555,0,1,1,0,0
+Greater Chicago Food Depository - Ashuntis 2 Community Center,4350 W 16th St,Chicago,IL,60623,41.858891,-87.734322,0,0,1,0,1
+Greater Chicago Food Depository - Salvation Army Mayfair,5020 N Pulaski Rd,Chicago,IL,60630,41.972862,-87.729773,0,1,0,0,1
+Greater Chicago Food Depository - Light House Apostolic,7759 S Eberhart Ave,Chicago,IL,60619,41.753103,-87.612231,0,1,1,0,0
+Greater Chicago Food Depository - St John Evangelist MB Church,1234 W 63rd street,Chicago,IL,60636,41.779837,-87.656685,0,0,1,0,0
+Greater Chicago Food Depository - Christian Community Health Center,8025 S Honore,Chicago,IL,60620,41.747654,-87.669129,0,1,1,0,0
+Greater Chicago Food Depository - Washington Park,627 E 40th Street,Chicago,IL,60653,41.821433,-87.610749,0,1,1,0,0
+Greater Chicago Food Depository - Wentworth 248,248 W 38th Place,Chicago,IL,60616,41.824627,-87.63296,0,1,1,0,0
+Greater Chicago Food Depository - Trumbull,10616 S Bensley,Chicago,IL,60616,41.702105,-87.563486,0,1,1,0,0
+Greater Chicago Food Depository - MO West Englewood Public Library,1745 W 63rd St,Chicago,IL,60636,41.779076,-87.668442,0,0,1,0,0
+Greater Chicago Food Depository - MO St Peters Church,5450 W Diversey,Chicago,IL,60639,41.931585,-87.763114,0,0,1,0,0
+Greater Chicago Food Depository - Kelly Branch Chicago Public Library,6151 S Normal Ave,Chicago,IL,60621,41.775716,-87.636861,0,0,1,0,0
+Greater Chicago Food Depository - Street Level Youth Media,1637 N Ashland Ave,Chicago,IL,60622,41.911737,-87.667358,0,0,1,0,1
+Greater Chicago Food Depository - Cabrini,523 W Locust,Chicago,IL,60610,41.89876,-87.641931,0,1,1,0,0
+Greater Chicago Food Depository - TSA Chicago Temple,1 N Ogden,Chicago,IL,60607,41.881774,-87.665273,0,1,1,0,0
+Greater Chicago Food Depository - TSA Englewood Red Shield,945 W 69th St,Chicago,IL,60621,41.768522,-87.648744,0,1,1,0,0
+Greater Chicago Food Depository - Imagine Englewood If,730 W 69th St,Chicago,IL,60621,41.769059,-87.642998,0,0,1,0,1
+Greater Chicago Food Depository - Because I Care Inc,5811 W Chicago Ave,Chicago,IL,60651,41.894586,-87.770667,0,1,1,0,0
+Greater Chicago Food Depository - golden Sugar,5527 S Ashland,Chicago,IL,60636,41.792813,-87.664243,0,0,1,0,1
+Greater Chicago Food Depository - Roseland Christian Ministries,10858 S Michigan,Chicago,IL,60628,41.696483,-87.621161,0,1,1,0,0
+Greater Chicago Food Depository - Daley Richard M W Humboldt,733 N Kedzie Ave,Chicago,IL,60612,41.894781,-87.706177,0,0,1,0,0
+Greater Chicago Food Depository - MO Legler Library,115 S Pulaski Rd,Chicago,IL,60624,41.879312,-87.725303,0,0,1,0,0
+New Evangelical Bible Church - New Evangelical Bible Church,4636 W Washington Blvd,Chicago,IL,60644,41.882234,-87.741573,0,0,1,0,1
+Greater Chicago Food Depository - Westside Learning Center Learn and Earn,4624 W Madison St,Chicago,IL,60644,41.881278,-87.741135,0,1,1,0,0
+Greater Chicago Food Depository - Lez Enfants Academy,7209 S Halsted St,Chicago,IL,60621,41.762955,-87.644043,0,1,1,0,0
+Greater Chicago Food Depository - Sherman Park Library,5440 S Racine Ave,Chicago,IL,60609,41.794837,-87.655163,0,0,1,0,0
+Greater Chicago Food Depository - Maranatha Community Youth Center,1631 E 71st St,Chicago,IL,60649,41.765775,-87.584599,0,0,1,0,1
+Greater Chicago Food Depository - Erie Neighborhood House,4225 W 25th St,Chicago,IL,60623,41.845763,-87.730525,0,0,1,0,0
+Greater Chicago Food Depository - Community Counseling Centers of Chicago,4740 N Clark St,Chicago,IL,60640,41.968023,-87.667676,0,0,1,0,0
+Greater Chicago Food Depository - Back of The Yards IB HS,2111 W 47th St,Chicago,IL,60609,41.807744,-87.677605,1,0,1,0,0
+New Life Community Ministries - King of Glory,2314 E 83rd St,Chicago,IL,60617,41.744667,-87.56823,0,1,1,0,0
+Greater Chicago Food Depository - Metroploitian Family Services,235 E 103rd St,Chicago,IL,60628,41.706994,-87.616678,0,0,1,0,1
+Greater Chicago Food Depository - My Cheer Now,12040 S Doty Road,Chicago,IL,60628,41.676127,-87.601951,0,1,1,0,0
+Greater Chicago Food Depository - Esperanza Community Services,520 N Marshfield Ave,Chicago,IL,60622,41.891418,-87.668832,0,0,1,0,0
+Greater Chicago Food Depository - St. Mark AME Zion Church,7358 S. Cottage Grove,Chicago,IL,60619,41.760555,-87.605733,0,1,1,0,0
+Greater Chicago Food Depository - CircEsteem,1650 W. Foster Ave.,Chicago,IL,60640,41.976426,-87.671637,0,0,1,0,1
+Greater Chicago Food Depository - Altgeld,13046 S. Evans,Chicago,IL,60827,41.658098,-87.603525,0,1,1,0,0
+Greater Chicago Food Depository - Cambridge Camp,1014 E. 47th Street,Chicago,IL,60653,41.809965,-87.600581,0,1,1,0,0
+Greater Chicago Food Depository - MO Austin Library,5615 W. Race Ave.,Chicago,IL,60644,41.889016,-87.765811,0,0,1,0,0
+Greater Chicago Food Depository - MO Our Lady of the Mount Church,2414 S. 61st Ave,Chicago,IL,60804,41.846872,-87.77656,0,0,1,0,0
+Greater Chicago Food Depository - MO Resurrection Project,1818 S. Paulina,Chicago,IL,60608,41.857573,-87.668648,0,0,1,0,0
+Greater Chicago Food Depository - MO McKinley Park Library,1915 W. 35th St,Chicago,IL,60609,41.830151,-87.673591,0,0,1,0,0
+Greater Chicago Food Depository - UIC Adams Hall Aferican American Cultural Center,830 S Halsted,Chicago,IL,60607,41.871109,-87.646447,0,0,1,0,0
+Greater Chicago Food Depository - Changing Life Education Intiative,7901 South Sangamon,Chicago,IL,60620,41.750328,-87.647073,0,1,1,0,0
+Greater Chicago Food Depository - Children's Health and Executive Club,1234 S. Michigan,Chicago,IL,60605,41.866506,-87.624334,0,0,1,0,1
+Greater Chicago Food Depository - St Francis of Assisi,932 N Kostner ,Chicago,IL,60651,41.898215,-87.736287,0,0,1,0,0
+Greater Chicago Food Depository - grant memorial ame,4017 south drexel,chicago,IL,60653,41.821003,-87.604532,0,0,1,0,0
+Greater Chicago Food Depository - Second Chance,6276 W North Ave,Chicago,IL,60639,41.909422,-87.783042,0,1,1,0,0
+Greater Chicago Food Depository - Puerto Rican Arts Alliance,1440 N Sacramento Ave,Chicago,IL,60622,41.907087,-87.702964,0,0,1,0,1
+Greater Chicago Food Depository - St John Pentacostal Church,10705 S Michigan Ave,Chicago,IL,60628,41.699598,-87.620595,0,0,1,0,0
+Greater Chicago Food Depository - Gospel Way Covenant Church,8152 South Saginaw avenue,Chicago,IL,60617,41.746636,-87.560421,0,0,1,0,0
+Greater Chicago Food Depository - New Hope Lutheran School,6416 S Washtenaw Ave,Chicago,IL,60629,41.776881,-87.691201,0,1,1,0,0
+Greater Chicago Food Depository - Association House,1116 N. Kedzie Avenue,Chicago,IL,60651,41.901496,-87.707581,0,1,1,0,0
+Greater Chicago Food Depository - Wentworth,3737 S. Wells,Chicago,IL,60609,41.827311,-87.632591,0,1,1,0,0
+Greater Chicago Food Depository - Cease Fire West,3504 W. Chicago,Chicago,IL,60651,41.89565,-87.714207,0,0,0,1,0
+Greater Chicago Food Depository - Breakthrough Urban Ministries,3219 W. Carroll Avenue,Chicago,IL,60624,41.887223,-87.707268,0,1,1,0,0
+Greater Chicago Food Depository - Inner City Youth Services,9214 S Commercial,Chicago,IL,60617,41.727886,-87.551513,0,1,1,0,0
+Greater Chicago Food Depository - Muslim Women Resource Center,6445 N Western Ave Suite 301,Chicago,IL,60645,41.999314,-87.689549,0,1,0,0,1
+Greater Chicago Food Depository - House of Prayer and Healing,235 E. 69th Street,Chicago,IL,60619,41.769083,-87.618915,0,1,1,0,0
+Greater Chicago Food Depository - Burnett School of Performing Arts,3800 S. Michigan Ave,Chicago,IL,60653,41.825464,-87.623561,0,0,1,0,1
+Greater Chicago Food Depository - Connections to the Future,5423 W. Augusta Ave,Chicago,IL,60651,41.898321,-87.761757,0,0,1,0,1
+Greater Chicago Food Depository - Greater St Paul AME,4236 W Cermak Road,Chicago,IL,60623,41.851766,-87.731223,0,0,1,0,0
+Greater Chicago Food Depository - YiPEE-Bosen/Hermosa,4224 W. Belmont Street,Chicago,IL,60641,41.939266,-87.733729,0,1,1,0,0
+Greater Chicago Food Depository - Greater Metropolitan MB Church,5856 W. Wabash Ave,Chicago,IL,60637,41.787801,-87.624379,0,1,1,0,0
+Greater Chicago Food Depository - House Development Corp,2111 S. Hamlin,Chicago,IL,60623,41.85241,-87.719848,0,1,1,0,0
+Greater Chicago Food Depository - SSW-Homan,1402 S. Homan,Chicago,IL,60623,41.86234,-87.710428,0,1,1,0,0
+Greater Chicago Food Depository - LATHROP,2603 N HOYNE #841,CHICAGO,IL,60647,41.928907,-87.678591,0,1,1,0,0
+Greater Chicago Food Depository - SSSE Giles,3555 S Giles,Chicago,IL,60609,41.82953,-87.619171,0,1,1,0,0
+Greater Chicago Food Depository - SSSE-Root,359 W. 42nd Street,Chicago,IL,60609,41.817964,-87.63568,0,1,1,0,0
+Greater Chicago Food Depository - Lowden,228A W. 95th Street,Chicago,IL,60628,41.72171,-87.629692,0,1,1,0,0
+Greater Chicago Food Depository - Truman,1145 W. Wilson,Chicago,IL,60640,41.964524,-87.658993,0,1,1,0,0
+Greater Chicago Food Depository - Loyola University,6339 N. Sheridan Road,Chicago,IL,60660,41.997618,-87.65532,0,1,1,0,0
+Greater Chicago Food Depository - Kennedy King Learn and Earn,740 W. 63rd Street,Chicago ,IL,60621,41.780201,-87.643849,0,1,1,0,0
+Greater Chicago Food Depository - Holman Leadership Academy,7100 S South Shore Dr,Chicago,IL,60649,41.765998,-87.563109,0,1,1,0,0
+Greater Chicago Food Depository - Triedstone Church,1413 W. 104th Street,Chicago,IL,60643,41.704926,-87.658027,0,0,1,0,1
+Greater Chicago Food Depository - Chatham Enrichment Center,8221 S. State,Chicago,IL,60619,41.744716,-87.624032,0,1,1,0,0
+Greater Chicago Food Depository - Puerto Rican Arts Alliance,2958 N Milwaukee Ave,Chicago,IL,60618,41.934935,-87.717705,0,0,1,0,1
+Greater Chicago Food Depository - Brooks/Roosevelt Square,1351 W Hastings St,Chicago,IL,60608,41.864117,-87.66128,0,1,1,0,0
+Greater Chicago Food Depository - Lake Parc Place-3939,3939 S Lake Park Ave,Chicago,IL,60653,41.823945,-87.602728,0,1,1,0,0
+Greater Chicago Food Depository - Altgeld-13032,13032 S Greenwood Ave,Chicago,IL,60827,41.657771,-87.59626,0,1,1,0,0
+Greater Chicago Food Depository - Lake Parc Place,3983 S Lake Park Ave,Chicago,IL,60653,41.823001,-87.60205,0,1,1,0,0
+Greater Chicago Food Depository - Trumbull-10606,10606 S Oglesby Ave,Chicago,IL,60617,41.702434,-87.565375,0,1,1,0,0
+Greater Chicago Food Depository - Brooks/Roosevelt Square,1327 W 13th St,Chicago,IL,60608,41.864902,-87.660434,0,1,1,0,0
+Greater Chicago Food Depository - Archi-treasures,1350 S Morgan St,Chicago,IL,60608,41.864058,-87.648208,0,1,1,0,0
+Greater Chicago Food Depository - Community Film Wrkshp of Chic,6200 S Drexel Ave Rm 201,Chicago,IL,60637,41.781934,-87.604879,0,0,1,0,1
+Greater Chicago Food Depository - Stamps Rhine Center,1329 N Larrabee St,Chicago,IL,60610,41.905819,-87.643072,0,1,1,0,1
+Greater Chicago Food Depository - MO St. Mark Parish,1048 N Campbell Ave,Chicago,IL,60622,41.900774,-87.689744,0,0,1,0,0
+Greater Chicago Food Depository - Mabel Manning Branch Library,6 S Hoyne Ave,Chicago,IL,60612,41.88103,-87.679549,0,0,1,0,0
+Greater Chicago Food Depository - Hands Together Heart to Art,425 S Wabash Ave,Chicago,IL,60605,41.876379,-87.625597,0,0,1,0,1
+Greater Chicago Food Depository - Canaryville Branch Library,642 W 43rd St,Chicago,IL,60609,41.816476,-87.642592,0,0,1,0,0
+Greater Chicago Food Depository - Korean American Resource and Cultural Center,6212 N Lincoln Ave,Chicago,IL,60659,41.994622,-87.714886,0,0,0,1,1
+Greater Chicago Food Depository - Intercessor Inc,4014 W Chicago Ave,Chicago,IL,60651,41.895568,-87.726808,0,1,1,0,0
+Greater Chicago Food Depository - Martin Temple AME Zion,6930 S Cottage Grove Ave,Chicago,IL,60637,41.768887,-87.606126,0,0,1,0,0
+Greater Chicago Food Depository - Mo West Belmont Library,3104 N Narragansett Ave,Chicago,IL,60634,41.936729,-87.786163,0,0,1,0,0
+Greater Chicago Food Depository - The Children's Place Association,3059 W Augusta Blvd,Chicago,IL,60622,41.899039,-87.704061,0,1,1,0,0
+Greater Chicago Food Depository - The Community Builders at Oakwood Shores,3859 S Vincennes Ave,Chicago,IL,60653,41.824114,-87.6122,0,0,1,0,1
+Greater Chicago Food Depository - Univeristy of IL at Chicago,1040 W Harrison St,Chicago,IL,60607,41.874951,-87.652924,0,0,1,0,1
+Greater Chicago Food Depository - Success to Significance,49 W 111th Pl,Chicago,IL,60628,41.691479,-87.625002,0,1,1,0,0
+Greater Chicago Food Depository - Union Tabernacle MB Church,6623 S Stewart Ave,Chicago,IL,60621,41.773704,-87.634862,0,1,1,0,0
+Greater Chicago Food Depository - Resurrection Medical Center,7435 W Talcott Ave,Chicago,IL,60631,41.987827,-87.81437,0,0,1,0,0
+Greater Chicago Food Depository - Antioch Havens Homes,420 W 63rd St,Chicago,IL,60621,41.780141,-87.635681,0,1,1,0,0
+Greater Chicago Food Depository - Kings Dominion International Church,11625 S Ashland Ave,Chicago,IL,60643,41.682166,-87.661127,0,1,1,0,0
+Greater Chicago Food Depository - Masjid Al Farooq,8950 S Stony Island Ave,Chicago,IL,60617,41.731746,-87.58594,0,1,1,0,0
+Greater Chicago Food Depository - Mercy Housing Lakefront - Roseland Apt,10426 S Michigan Ave,Chicago,IL,60628,41.704742,-87.621057,0,1,1,0,0
+Greater Chicago Food Depository - Westside Technical Institute,2800 S Western Ave,Chicago,IL,60608,41.84096,-87.686232,0,1,1,0,0
+Greater Chicago Food Depository - Chicago Youth Centers - ESI Program,7601 S Phillips Ave,Chicago,IL,60649,41.75693,-87.564755,0,0,1,0,1
+Greater Chicago Food Depository - Millenium Park,70 W Monroe St,Chicago,IL,60603,41.880583,-87.630333,0,0,1,0,0
+Greater Chicago Food Depository - PRC Learning Center,100 N Hermitage Ave,Chicago,IL,60612,41.883703,-87.670957,0,1,1,0,0
+Greater Chicago Food Depository - Mackinaw,8330 S Mackinaw Ave,Chicago,IL,60617,41.743804,-87.543308,0,1,1,0,0
+Greater Chicago Food Depository - Action Coalition of Englewood,6455 S Peoria St,Chicago,IL,60621,41.776406,-87.646805,0,1,1,0,0
+Greater Chicago Food Depository - Metro Squash,6100 S Cottage Grove Ave,Chicago,IL,60637,41.783842,-87.606376,0,0,1,0,0
+Greater Chicago Food Depository - Metropolitan Apostolic Church,4100 S King Dr,Chicago,IL,60653,41.820002,-87.617465,0,1,1,0,0
+Greater Chicago Food Depository - Staford Memorial Seventh Day Adventist Church,500 W 119th St,Chicago,IL,60628,41.678098,-87.63557,0,0,1,1,1
+Greater Chicago Food Depository - New Conventant Life,9321 S Cottage Grove Ave,Chicago,IL,60619,41.725017,-87.604127,0,1,1,0,0
+Agudath Israel of Illinois - Camp Bnos,3200 W Peterson Ave,Chicago,IL,60659,41.991264,-87.709971,0,1,1,0,0
+Agudath Israel of Illinois - Camp Pirchei,2620 W Touhy Ave,Chicago,IL,60645,42.012417,-87.695969,0,1,1,0,0
+Agudath Israel of Illinois - ATT Summer,2828 W Pratt Blvd,Chicago,IL,60645,42.005617,-87.701234,0,1,1,0,0
+Agudath Israel of Illinois - Bernard Horwich JCC,3003 W. Touhy Ave,Chicago,IL,60645,42.011537,-87.705141,0,0,1,0,0
+Agudath Israel of Illinois - Pirchei Day Camp,6122 N California Ave,Chicago,IL,60659,41.992957,-87.699789,0,1,1,0,0
+CS Academy - CS Academy,6014 S Racine Ave,Chicago,IL,60636,41.784561,-87.65499,0,1,1,0,0
+CS Academy - Trinity Baptist Church,6201 S Laflin,Chicago,IL,60636,41.781186,-87.661461,0,1,1,0,0
+CS Academy - CS Academy II,6014 South Racine,Chicago,IL,60636,41.784561,-87.65499,0,1,1,0,0
+CS Academy - Gospel Quartets Academy,7915 S Halsted St,Chicago,IL,60620,41.750133,-87.643697,0,1,1,0,0
+By the Hand Club for Kids - By The Hand Austin,415 N Laramie Ave,Chicago,IL,60644,41.888283,-87.755021,0,0,1,0,0
+By the Hand Club for Kids - By the Hand Altgeld Murry,13015 S Ellis Ave,Chicago,IL,60827,41.658582,-87.597521,0,0,1,0,0
+Casa Central - Casa Central YOU,1343 N California Ave,Chicago,IL,60622,41.906048,-87.696532,0,1,1,0,0
+New Life Community Ministries - Assembly of Faith,1222 W 108th St,Chicago,IL,60643,41.697924,-87.653369,0,1,1,0,0
+Catholic Charities of Archdioces - Phalanx Family Services,1201 W 115th St,Chicago,IL,60643,41.684335,-87.652173,0,1,1,0,0
+Bibleway Apostolic Faith Church - Bibleway Apostolic Church,1807 S Kostner,Chicago,IL,60651,41.85664,-87.734361,0,1,1,0,0
+Bibleway Apostolic Faith Church - BDC Sports,3800 W Jackson Blvd,Chicago,IL,60624,41.877173,-87.720723,0,0,0,1,0
+Bibleway Apostolic Faith Church - Orr Academy,730 N. Pulaski,Chicago,IL,60624,41.894171,-87.726049,0,0,0,1,0
+Woodlawn Missionary Baptist Church - Woodlawn Anointed Playland,4819 West Chicago,Chicago,IL,60644,41.894977,-87.746605,0,1,1,0,0
+New Direction Empowerment - Holy Zion MB Church,1258 W 103rd St,Chicago,IL,60643,41.707169,-87.654944,0,1,1,0,0
+Greater Holy Temple Church Of - Greater Holy Temple COGIC,246 N California Ave,Chicago,IL,60612,41.885666,-87.696738,0,1,1,0,0
+Youth Leadership Association - Banner Academy South High Sch,2330 E 99th St,Chicago,IL,60617,41.715623,-87.567166,0,1,1,0,0
+New Life Community Ministries - The Ark Of St Sabina,7800 S Racine Ave,Chicago,IL,60620,41.752296,-87.65381,0,1,1,0,0
+New Life Community Ministries - Tried Stone Church 1415,1415 W 104th St,Chicago,IL,60643,41.704637,-87.65814,0,0,1,0,0
+New Life Community Ministries - Joshua Church,3255 W Carroll Ave,Chicago,IL,60624,41.887194,-87.708469,0,1,1,0,0
+New Life Community Ministries - Greater Holy Temple,4522 W 16th,Chicago,IL,60624,41.858921,-87.738184,0,1,1,0,0
+New Life Community Ministries - Union MB Church,610 N Homan,Chicago,IL,60612,41.892259,-87.711684,0,1,1,0,0
+New Life Community Ministries - New Life Community Ministries,3540 W Cermak Rd,Chicago,IL,60623,41.851958,-87.713978,0,1,1,0,0
+New Life Community Ministries - SPIRIT REDEEMED CAMP,6615 S Ashland Ave,CHICAGO,IL,60636,41.773529,-87.66367,0,1,1,0,0
+New Life Community Ministries - REUNITED CAMP,1444 S Pulaski Rd,CHICAGO,IL,60623,41.861146,-87.72536,0,1,1,0,0
+New Life Community Ministries - EMPOWERMENT CAMP,601 W 120th St,Chicago,IL,60628,41.675826,-87.637288,0,1,1,0,0
+New Life Community Ministries - One Stop Outreach,6120 W North Ave,Chicago,IL,60639,41.909468,-87.778562,0,1,1,0,0
+New Life Community Ministries - New Kingdom Camp,501 N Central Ave,Chicago,IL,60644,41.889655,-87.764668,0,1,1,0,0
+New Life Community Ministries - New Kingdom Church,5213 W Potomac Ave,Chicago,IL,60651,41.903928,-87.756322,0,1,1,0,0
+New Life Community Ministries - Loving Spirit M B Church,424 W 103rd Street,Chicago,IL,60628,41.70723,-87.63401,0,1,1,0,0
+New Life Community Ministries - bright star,735 east 44th,chicago,IL,60653,41.81467,-87.607811,0,1,1,0,0
+New Life Community Ministries - fellowship baptist church,4543 south princeton,chicago,IL,60609,41.811398,-87.632994,0,1,1,0,0
+New Life Community Ministries - first paradise,6736 south cottage grove,chicago,IL,60637,41.772019,-87.60614,0,1,1,0,0
+New Life Community Ministries - holy trinity,5416 south calumet,chicago,IL,60615,41.795994,-87.618007,0,1,1,0,0
+New Life Community Ministries - Kingdom Life Ministries,6605 S. Hamilton,Chicago,IL,60636,41.77348,-87.677117,0,1,1,0,0
+New Life Community Ministries - New Cannaland,5957 S. Peoria,Chicago,IL,60621,41.78533,-87.647021,0,1,1,0,0
+New Life Community Ministries - New Nazareth MBC,7933 S. Yates,Chicago,IL,60617,41.750624,-87.565838,0,1,1,0,0
+New Life Community Ministries - New Spiritual Light,7566 S. South Shore Dr.,Chicago,IL,60649,41.758807,-87.55598,0,1,1,0,0
+New Life Community Ministries - Prayer Tabernacle,9535 S. Prospect Ave,Chicago,IL,60643,41.720175,-87.664813,0,1,1,0,0
+New Life Community Ministries - South Shore UMC,7350 S. Jeffery BLVD,Chicago,IL,60649,41.760952,-87.57651,0,1,1,0,0
+New Life Community Ministries - St. James Industrial,8539 S Racine,Chicago,IL,60620,41.738319,-87.653155,0,1,1,0,0
+New Life Community Ministries - The Way of Truth Church Baptist,6458 S. California,Chicago,IL,60629,41.775645,-87.693684,0,1,1,0,0
+New Life Community Ministries - True Light/B.F. Paxton Community Development,7300 S. Maryland,Chicago,IL,60619,41.762068,-87.604513,0,1,1,0,0
+New Life Community Ministries - Corinthian Temple,4520 W. Washington,Chicago,IL,60624,41.882227,-87.738844,0,1,1,0,0
+New Life Community Ministries - Great True Vine,5936 W. Division,Chicago,IL,60651,41.902184,-87.774455,0,1,1,0,0
+New Life Community Ministries - Mt. Vernon,2622 W. Jackson,Chicago,IL,60612,41.877881,-87.69191,0,1,1,0,0
+New Life Community Ministries - New Landmark,2700 W. Wilcox,Chicago,IL,60612,41.879535,-87.694183,0,1,1,0,0
+New Life Community Ministries - New Mt. Pilgrim,4301 W Washington Blvd,Chicago,IL,60624,41.881633,-87.733296,0,1,1,0,0
+New Life Community Ministries - Peoples Church of The Harvest,3570 W. 5th Ave.,Chicago,IL,60624,41.876115,-87.71526,0,1,1,0,0
+New Life Community Ministries - Reaching Out Ministries,2431 W. Roosevelt,Chicago,IL,60608,41.866379,-87.68732,0,1,1,0,0
+New Life Community Ministries - Rhema Word Church,5460 W. Ohio,Chicago,IL,60644,41.891301,-87.762963,0,1,1,0,0
+New Life Community Ministries - Rising Sun,820 N. Central,Chicago,IL,60639,41.896116,-87.716542,0,1,1,0,0
+New Life Community Ministries - Tiberia Baptist,3906 W. Roosevelt,Chicago,IL,60651,41.866447,-87.723037,0,1,1,0,0
+New Life Community Ministries - Universal MBC,535 North Cicero,Chicago,IL,60644,41.890732,-87.745445,0,1,1,0,0
+New Life Community Ministries - Bethany El Buen Pastor UMC,3900 N Richmond,Chicago,IL,60618,41.952131,-87.70187,0,1,1,0,0
+New Life Community Ministries - Alliance for Community Peace,509 W. Elm St,Chicago,IL,60610,41.902514,-87.641525,0,1,1,0,0
+New Life Community Ministries - Grace and Peace,2100 N. Kildare,Chicago,IL,60639,41.919084,-87.734286,0,1,1,0,0
+New Life Community Ministries - Iglesia Evangelica,3000 N. Kedzie,Chicago,IL,60618,41.935965,-87.707849,0,1,1,0,0
+New Life Community Ministries - Iglesia Evangelica Emmanuel,3000 N Kedzie Ave,Chicago,IL,60618,41.935965,-87.707849,0,1,1,0,0
+New Life Community Ministries - Iglesia Evangelica Reformada,5016 W Armitage Ave,Chicago,IL,60639,41.917128,-87.751684,0,1,1,0,0
+New Life Community Ministries - New Life Pilsen,2512 S. oakley,Chicago,IL,60688,41.84615,-87.683444,0,1,1,0,0
+New Life Community Ministries - Northwest Community,5318 W. Diversity,Chicago,IL,60639,41.931579,-87.759755,0,1,1,0,0
+New Life Community Ministries - Storehouse,2500 N. Talman,Chicago,IL,60647,41.926802,-87.694134,0,1,1,0,0
+New Life Community Ministries - Union Baptist,940 N. Orleans,Chicago,IL,60610,41.90015,-87.637628,0,1,1,0,0
+New Life Community Ministries - Upper Room,1357 N. California,Chicago,IL,60622,41.906397,-87.696584,0,1,1,0,0
+New Life Community Ministries - Urban Vinyard,2145 N. Maplewood,Chicago,IL,60622,41.920643,-87.691099,0,1,1,0,0
+New Life Community Ministries - St. Sabina,7800 S. Racine,Chicago,IL,60620,41.752296,-87.65381,0,1,1,0,0
+New Life Community Ministries - West Point,3566 S. Cottage Groove,Chicago,IL,60653,41.829251,-87.610022,0,1,1,0,0
+New Life Community Ministries - Sweet Relief,4247 W. Division,Chicago,IL,60651,41.902349,-87.733158,0,1,1,0,0
+New Life Community Ministries - redemptive tabernacle,9901 south beverly,chicago,IL,60643,41.71401,-87.659616,0,1,1,0,0
+New Life Community Ministries - stone temple,3622 w. douglass,chicago,IL,60623,41.863175,-87.716355,0,1,1,0,0
+New Life Community Ministries - house covenant,3827 west ogden,chicago,IL,60623,41.852101,-87.720797,0,1,1,0,0
+New Life Community Ministries - truth and deliverance,5151 west madison,chicago,IL,60624,41.880037,-87.754624,0,1,1,0,0
+New Life Community Ministries - VERNON BAPTIST CHURCH,6400 SOUTH CHAMPLAIN,CHICAGO,IL,60637,41.778496,-87.609563,0,0,1,0,0
+New Life Community Ministries - NEW LIFE IN CHRIST MINISTRIES,2930 W Flournoy St,Chicago,IL,60612,41.873065,-87.699871,0,1,1,0,1
+New Life Community Ministries - New Life South,1734 east 79th,chicago,IL,60649,41.751631,-87.581893,0,1,1,0,0
+New Life Community Ministries - helping hand church,538 north lavergne,chicago,IL,60644,41.89056,-87.750773,0,1,1,0,0
+New Life Community Ministries - new life holiness church,5637 W North Ave,Chicago,IL,60639,41.909154,-87.767333,0,1,1,0,0
+New Life Community Ministries - praise tabernacle center,9511 south commercial,chicago,IL,60617,41.722564,-87.550953,0,1,1,0,0
+New Life Community Ministries - performing christ ministries,5209 west lake street,chicago,IL,60644,41.886935,-87.755746,0,1,1,0,0
+New Life Community Ministries - skyscraper ministries,520 west 26th street,chicago,IL,60616,41.845671,-87.64099,0,1,1,0,0
+New Life Community Ministries - lodebar church,5201 south princeton,chicago,IL,60609,41.799878,-87.632783,0,1,1,0,0
+New Life Community Ministries - Heart of God,7422 south vincennes,chicago,IL,60621,41.75919,-87.63127,0,1,1,0,0
+New Life Community Ministries - Chicago Embassy,5848 S. Princeton,Chicago,IL,60621,41.787499,-87.633276,0,1,1,0,0
+New Life Community Ministries - Faith UMC,335 W. 75th,Chicago,IL,60620,41.757863,-87.633412,0,1,1,0,0
+New Life Community Ministries - Free Spirt,1244 E. 79th St.,Chicago,IL,60619,41.751588,-87.593924,0,1,1,0,0
+New Life Community Ministries - Mt. Calvary,6109-11 S. Kenwood,Chicago,IL,60637,41.78377,-87.592629,0,1,1,0,0
+New Life Community Ministries - New Memorial,6844 S. Indiana,Chicago,IL,60637,41.769698,-87.620605,0,1,1,0,0
+New Life Community Ministries - Nu Grace Nu Mercy,7783 S. Exchange,Chicago,IL,60649,41.753883,-87.554165,0,1,1,0,0
+New Life Community Ministries - Providence,8401 S. Ashland,Chicago,IL,60620,41.740958,-87.66271,0,1,1,0,0
+New Life Community Ministries - Come Alive,2206 E. 73rd,Chicago,IL,60649,41.762709,-87.570784,0,1,1,0,0
+New Life Community Ministries - Greater Rock Baptist Church,718 S Independence Blvd,Chicago,IL,60624,41.871977,-87.720743,0,1,1,0,0
+New Life Community Ministries - Heirs of Promise,4821 W. Chicago,Chicago,IL,60651,41.894697,-87.746642,0,1,1,0,0
+New Life Community Ministries - Home of Life,4650 W. Madison,Chicago,IL,60644,41.880956,-87.74192,0,1,1,0,0
+New Life Community Ministries - Hope Community,5900 W. Iowa,Chicago,IL,60651,41.896842,-87.772562,0,1,1,0,0
+New Life Community Ministries - Inspiration Deliverance Center,647 N. Parkside,Chicago,IL,60644,41.892644,-87.766214,0,1,1,0,0
+New Life Community Ministries - New Home Baptist Church,4804 W. Polk st,Chicago,IL,60644,41.870595,-87.745248,0,1,1,0,0
+New Life Community Ministries - New Macedonia,4244 W. Madison,Chicago,IL,60624,41.880901,-87.732429,0,1,1,0,0
+New Life Community Ministries - New Misson,4700 W. Polk,Chicago,IL,60644,41.870693,-87.742692,0,1,1,0,0
+New Life Community Ministries - Casa de Santidad,5300 S. Maplewood,Chicago,IL,60632,41.797248,-87.688316,0,1,1,0,0
+New Life Community Ministries - Iglesia Cristiana Manantial,4300 S. California,Chicago,IL,60632,41.815363,-87.694596,0,1,1,0,0
+New Life Community Ministries - New Life Community Midway,5101 S. Keeler,Chicago,IL,60629,41.799983,-87.727479,0,1,1,0,0
+New Life Community Ministries - New Life Convenant,2704 W. North Ave,Chicago,IL,60647,41.910556,-87.694991,0,1,1,0,0
+New Life Community Ministries - New Life Northwest,5100 W. Diversey,Chicago,IL,60639,41.931719,-87.754278,0,1,1,0,0
+New Life Community Ministries - New Tiberia Church,911 S. Kedzie,Chicago,IL,60623,41.869761,-87.705505,0,1,1,0,0
+New Life Community Ministries - Word Empowerment,3933 W. Columbus,Chicago,IL,60618,41.736611,-87.719693,0,1,1,0,0
+New Life Community Ministries - New Light,7426 S. Halsted,Chicago,IL,60609,41.758989,-87.644585,0,1,1,0,0
+New Life Community Ministries - Youth Peace Corner,5022 W. Madison,Chicago,IL,60609,41.880794,-87.751156,0,1,1,0,0
+New Life Community Ministries - spreading the word,2728 east 79th,chicago,IL,60649,41.751953,-87.557416,0,1,1,0,0
+New Life Community Ministries - unity outreach center,3065 east 93rd,chicago,IL,60617,41.726157,-87.54863,0,1,1,0,0
+New Life Community Ministries - Lively Stone,4938 W. Chicago Ave.,Chicago,IL,60651,41.895293,-87.749853,0,1,1,0,0
+New Life Community Ministries - Agape Church Of Love,3623 W North Ave,Chicago,IL,60647,41.909841,-87.71774,0,1,1,0,0
+New Life Community Ministries - Anointed Heirs Outreach Min.,7601 S Kostner Ave,Chicago,IL,60652,41.754523,-87.7319,0,1,1,0,0
+New Life Community Ministries - Elston UMC,5253 N Kenmore Ave,Chicago,IL,60640,41.978006,-87.656455,0,1,1,0,0
+New Life Community Ministries - Power Source Intl. Ministry,5820 W Chicago Ave,Chicago,IL,60651,41.895024,-87.771247,0,1,1,0,0
+New Life Community Ministries - Temple of Life Church,5836 W Madison St,Chicago,IL,60644,41.880392,-87.771485,0,1,1,0,0
+New Life Community Ministries - Mercy Seat,4656 W Erie St,Chicago,IL,60644,41.892571,-87.743253,0,1,1,0,0
+New Life Community Ministries - Gospel Temple Church,3855 W Harrison St,Chicago,IL,60624,41.873231,-87.722601,0,1,1,0,0
+New Life Community Ministries - Temple of Glory,311 E 95th St,Chicago,IL,60619,41.721555,-87.615961,0,1,1,0,0
+New Life Community Ministries - Liberation,7400 S Michigan Ave,Chicago,IL,60619,41.760082,-87.621596,0,1,1,0,0
+New Life Community Ministries - Friendly Temple Church,7745 S State St,Chicago,IL,60619,41.753229,-87.624176,0,1,1,0,0
+New Life Community Ministries - Christian Love,535 N Spaulding Ave,Chicago,IL,60624,41.89134,-87.708535,0,1,1,0,0
+Joyces Playhouse Nursery And - Clair Methodist Church,3956 W 14th st,Chicago,IL,60623,41.862539,-87.724331,0,1,1,0,0
+Faith Miracle Temple Church - Faith Miracle Temple Church,4258 W Iowa St,Chicago,IL,60651,41.897343,-87.73334,0,1,1,0,0
+Philadelphia Missionary - Philadelphia Missionary,3335 W Washington Blvd,Chicago,IL,60624,41.882462,-87.709983,0,1,1,0,0
+The Lords Way Missionary - Stir Up the Gifts Ministry,7236 South Ashland,Chicago,IL,60636,41.762009,-87.664099,0,1,1,0,0
+Abundant Favor Worship Ctr - AFWC,5841 W. Division,Chicago,IL,60651,41.901874,-87.77213,0,1,1,0,0
+Abundant Favor Worship Ctr - Mount Zion M B Church,4344 W Madison St,Chicago,IL,60624,41.880904,-87.734879,0,1,1,0,0
+Horizons For Youth - Horizons for Youth Summer Program,751 N State St,Chicago,IL,60654,41.896465,-87.627611,0,1,1,0,1
+New Greater True Light MB Church - New Greater True Light MB Church,5401 W Chicago Ave,Chicago,IL,60651,41.894718,-87.760959,0,1,1,0,0
+Peaceful New Beginnings - Peaceful New Beginnings MBC,345 S Cicero Ave,Chicago,IL,60644,41.875535,-87.744894,0,1,1,0,0
+Noble Street Charter Schools - Noble St Chtr-Johnson College Prep,6350 S Stewart Ave,Chicago,IL,60621,41.778615,-87.635563,0,1,1,0,0
+Noble Street Charter Schools - Noble St Chtr-Hansberry College Prep - Silver,8748 S Aberdeen St,Chicago,IL,60620,41.734935,-87.651323,0,1,1,0,0
+Noble Street Charter Schools - Noble St Chtr-DRW Trading College Prep,931 S Homan Ave,Chicago,IL,60624,41.869227,-87.710009,0,1,1,0,0
+Noble Street Charter Schools - Rowe-Clark Math and Science Academy,3645 W Chicago Ave,Chicago ,IL,60651,41.895186,-87.718132,0,1,1,0,0
+Noble Street Charter Schools - Pritzker College prep,4131 W Cortland Ave,Chicago ,IL,60639,41.914852,-87.729572,0,1,1,0,0
+Noble Street Charter Schools - ITW David Speer Academy,5321 W Grand Ave,Chicago,IL,60639,41.917088,-87.760063,0,1,1,0,0
+IHSCA Charter School - IHSCA Charter School,2520 S Western Ave,Chicago,IL,60608,41.845752,-87.685857,0,1,1,0,0
+Chicago State University - CSU Cafeteria SUB 2nd Fl,9501 S King Dr,Chicago,IL,60628,41.719584,-87.610879,0,1,1,1,0
+1st Holy Zion Missionary - Woodlawn Baptist Church,6207 S. University,Chicago,IL,60637,41.782148,-87.597635,0,1,1,0,0
+1st Holy Zion Missionary - 1st Holy Zion Missionary,6110 S Ashland Ave,Chicago,IL,60636,41.782703,-87.664592,0,1,1,0,0
+The Lunch Box Crew NFP - Dunbar High School Park,3000 S King Dr,Chicago,IL,60616,41.84037,-87.618512,1,0,1,0,0
+New Life House of Prayer - New Life House of Prayer,8001 South Racine,Chicago,IL,60620,41.748546,-87.653329,0,1,1,0,0
+Building Temple Ministries - St. Luke,7262 S Coles Ave,Chicago,IL,60649,41.763435,-87.562411,0,1,1,0,0
+New Mt Moriah Missionary - New Mt Moriah Missionary,1501 N Harding Ave,Chicago,IL,60651,41.908272,-87.724901,0,1,1,0,0
+Columbia College - Chartwells at University Center,525 S State St,Chicago,IL,60605,41.874988,-87.627287,0,0,1,0,0
+Catholic Charities of Archdioces - Gary Elem School,3740 W 31st St,Chicago,IL,60623,41.83788,-87.718763,1,0,1,0,0
+Catholic Charities of Archdioces - MO Davis Apts,3632 S Indiana Ave,Chicago,IL,60653,41.828695,-87.622017,0,0,1,0,0
+Catholic Charities of Archdioces - Faith Pentescostal Holiness,8044 S Racine Ave,Chicago,IL,60620,41.747358,-87.653953,0,0,1,0,0
+Catholic Charities of Archdioces - Back Of The Yards Playground,4922 S Throop,Chicago,IL,60609,41.804365,-87.657592,0,0,1,0,0
+Catholic Charities of Archdioces - MO Van Buren Park Apts,2045 W Jackson Blvd,Chicago,IL,60612,41.877199,-87.678351,0,0,1,0,0
+Catholic Charities of Archdioces - LSSI - Winthrop Childrens Center,4848 N Winthrop Ave,Chicago,IL,60640,41.970869,-87.658105,0,0,1,0,0
+Catholic Charities of Archdioces - MO The Parways  ,6718 S East End Ave,Chicago,IL,60649,41.772732,-87.584183,0,0,1,0,0
+Catholic Charities of Archdioces - Faith Tabernacle Baptist Church,8210 S Cornell Ave,Chicago,IL,60617,41.745669,-87.584545,0,1,1,0,0
+Catholic Charities of Archdioces - Bethlehem Star MB Church,9231 S Cottage Grove,Chicago,IL,60619,41.726546,-87.604101,0,1,1,0,0
+Catholic Charities of Archdioces - Southlawn United Methodist Church,8605 S Cregier Ave,Chicago,IL,60617,41.738556,-87.580212,0,0,1,0,0
+Catholic Charities of Archdioces - Woodlawn East Comm & Neighbors,6450 S Stony Island Ave,Chicago,IL,60637,41.777314,-87.586648,0,0,1,0,0
+Catholic Charities of Archdioces - MO Diversey Square Apt,3300 W Diversey Ave,Chicago,IL,60647,41.932257,-87.71013,0,0,1,0,0
+Catholic Charities of Archdioces - Miracle Center,3740 W Belden,Chicago,IL,60647,41.922993,-87.721271,0,0,1,0,0
+Catholic Charities of Archdioces - Community Youth Development Inst,7836 S Union Ave,Chicago,IL,60620,41.751306,-87.641633,0,1,1,0,0
+Catholic Charities of Archdioces - Daley College,7500 S Pulaski Rd,Chicago,IL,60652,41.756508,-87.723908,0,1,1,0,0
+Catholic Charities of Archdioces - Benton House Over 21 Committee,3052 S Gratten Ave,Chicago,IL,60608,41.838866,-87.654122,0,0,1,0,0
+Catholic Charities of Archdioces - Calvary Baptist Church,8247 S Jeffery Blvd,Chicago,IL,60617,41.744725,-87.575549,0,0,1,0,0
+Catholic Charities of Archdioces - Bright Star Community Outreach,735 E 44th St,Chicago,IL,60653,41.81467,-87.607811,0,1,1,0,0
+Catholic Charities of Archdioces - Catholic Charities Western,5332 S Western Ave,Chicago,IL,60609,41.796692,-87.684525,0,1,1,0,0
+Catholic Charities of Archdioces - Catholic Charities Armitage,3110 W Armitage,Chicago,IL,60647,41.917759,-87.706037,0,1,1,0,0
+Catholic Charities of Archdioces - Catholic Charities Commercial,8959 S Commercial,Chicago,IL,60617,41.73213,-87.55092,0,1,1,0,0
+Catholic Charities of Archdioces - Catholic Charities Diversey,4622 W Diversey,Chicago,IL,60639,41.931604,-87.742417,0,1,1,0,0
+Catholic Charities of Archdioces - Catholic Charities Kedzie,2400 S Kedzie,Chicago,IL,60623,41.84794,-87.705513,0,1,1,0,0
+Catholic Charities of Archdioces - Catholic Charities Cermak,1643 W Cermak,Chicago,IL,60608,41.852023,-87.667409,0,1,1,0,0
+Catholic Charities of Archdioces - MO Pullman Wheelworks,901 E 104th Street,Chicago,IL,60628,41.704505,-87.601886,0,0,1,0,0
+Catholic Charities of Archdioces - Emmanuel Community Development,6844 S Indiana,Chicago,IL,60637,41.769698,-87.620605,0,1,1,0,0
+Catholic Charities of Archdioces - New Life Community Church,3039 South Normal Avenue,Chicago,IL,60616,41.838838,-87.638635,0,1,1,0,0
+Catholic Charities of Archdioces - Seventh Prebyterian Church,8623 South Sangamon,Chicago,IL,60620,41.737264,-87.647085,0,0,1,1,0
+Catholic Charities of Archdioces - MO Continental Plaza Apartments,1330 W 76th St,Chicago,IL,60620,41.756605,-87.657407,0,0,1,0,0
+Catholic Charities of Archdioces - MO Drexel Towers Apartments,4917 S Drexel Blvd,Chicago,IL,60615,41.805235,-87.603704,0,0,1,0,0
+Catholic Charities of Archdioces - MO Eastwood Apartments,850 E Eastwood Ave,Chicago,IL,60640,41.966627,-87.651641,0,0,1,0,0
+Catholic Charities of Archdioces - MO Ellis Apartments,4624 S Ellis,Chicago,IL,60653,41.81041,-87.602201,0,0,1,0,0
+Catholic Charities of Archdioces - MO Englewood Gardens 1 Apts,6545 S Normal,Chicago,IL,60621,41.774909,-87.636761,0,0,1,0,0
+Catholic Charities of Archdioces - MO Eastwood Towers,4640 N Sheridan Rd,Chicago,IL,60640,41.966526,-87.655061,0,0,1,0,0
+Catholic Charities of Archdioces - MO Lawless Gardens Apartments,3550 S Rhodes,Chicago,IL,60653,41.82962,-87.615389,0,0,1,0,0
+Catholic Charities of Archdioces - MO Lawndale Apartments,3445 W Madison,Chicago,IL,60624,41.880784,-87.712856,0,0,1,0,0
+Catholic Charities of Archdioces - MO Parkview Apartments,5110 S King Drive,Chicago,IL,60615,41.801584,-87.617101,0,0,1,0,0
+Catholic Charities of Archdioces - MO Spring Grove Apartments,4554 S Drexel,Chicago,IL,60653,41.811668,-87.604788,0,0,1,0,0
+Catholic Charities of Archdioces - MO St Stephen Terrance Apartments,2333 W Jackson Blvd,Chicago,IL,60612,41.876567,-87.685057,0,0,1,0,0
+Catholic Charities of Archdioces - MO Washington Scene,6001 S Vernon,Chicago,IL,60637,41.785411,-87.614101,0,0,1,0,0
+Catholic Charities of Archdioces - MO Englewood Gardens 2 Apts,6642 S Stewart,Chicago,IL,60621,41.773274,-87.63489,0,0,1,0,0
+Catholic Charities of Archdioces - MO Fullerton Court Apartments,2303 N Clybourn Ave,Chicago,IL,60614,41.924978,-87.667425,0,0,1,0,0
+Catholic Charities of Archdioces - MO Jackson Parkside Apartments,6040 S Harper Ave,Chicago,IL,60637,41.784782,-87.588261,0,0,1,0,0
+Catholic Charities of Archdioces - MO St Edmunds Village Apartments,6253 S Michigan Ave,Chicago,IL,60637,41.780511,-87.621635,0,0,1,0,0
+Catholic Charities of Archdioces - MO Lowe Playground,5202 W Lowe Ave,Chicago,IL,60609,41.799632,-87.641994,0,0,1,0,0
+Catholic Charities of Archdioces - MO Micek Park,5311 S Hamilton Ave,Chicago,IL,60609,41.797004,-87.677995,0,0,1,0,0
+Catholic Charities of Archdioces - MO Park 500,730 S Springfield Ave,Chicago,IL,60624,41.871159,-87.722822,0,0,1,0,0
+Catholic Charities of Archdioces - Central United Community Church,8246 S Cottage Grove Ave,Chicago,IL,60619,41.744456,-87.605327,0,0,1,0,0
+Catholic Charities of Archdioces - MO St Agnes of Bohemia,2651 S Central Park Ave,Chicago,IL,60623,41.842902,-87.714484,0,0,1,0,0
+Catholic Charities of Archdioces - MO Epiphany Catholic Church,2524 S Keeler Ave,Chicago,IL,60623,41.845834,-87.729877,0,0,1,0,0
+Catholic Charities of Archdioces - MO Unity Play lot,2636 N Kimball Ave,Chicago,IL,60647,41.929397,-87.71223,0,0,1,0,0
+Catholic Charities of Archdioces - Cambodia Assn of Illinois,2831 W Lawrence Ave,Chicago,IL,60625,41.968353,-87.699926,0,1,1,0,0
+Catholic Charities of Archdioces - MO Lake Park Manor Apartments,3625 S Lake Park,Chicago,IL,60653,41.829486,-87.606503,0,0,1,0,0
+Catholic Charities of Archdioces - MO Northwest Service Comm Reach 1 Team 1 Sport Camp,1170 W Erie,Chicago,IL,60622,41.893823,-87.657055,0,0,1,0,0
+Catholic Charities of Archdioces - MO Lake Park Apartments,4048 S Drexel,Chicago,IL,60653,41.820714,-87.60537,0,0,1,0,0
+Catholic Charities of Archdioces - Madonna Mission,7110 N Sheridan Rd,Chicago,IL,60626,42.011915,-87.663679,0,0,1,0,0
+Catholic Charities of Archdioces - Mildrid I Lavizzo Elementary,138 w 109th Street,Chicago,IL,60628,41.696449,-87.627057,0,0,1,0,0
+Catholic Charities of Archdioces - Christopher House,3516 W School,Chicago,IL,60618,41.941282,-87.715246,0,1,1,0,0
+Catholic Charities of Archdioces - Child Development and High Quality Care,3906 W Chicago Ave,Chicago,IL,60651,41.895589,-87.723977,0,1,1,0,0
+Catholic Charities of Archdioces - MO Claremont Playlot,2334 W Flournoy St,Chicago,IL,60612,41.873048,-87.685479,0,0,1,0,0
+Catholic Charities of Archdioces - CottonWood Playlot,5058 W West End Ave,Chicago,IL,60644,41.88343,-87.752548,0,0,1,0,0
+Catholic Charities of Archdioces - MO Dogwood Playlot,2732 W Polk St,Chicago,IL,60612,41.871087,-87.694841,0,0,1,0,0
+Catholic Charities of Archdioces - MO Dobson Playlot,7521 S Dobson Ave,Chicago,IL,60619,41.757808,-87.599089,0,0,1,0,0
+Catholic Charities of Archdioces - MO Edmonds Playlot,711 W 60th St,Chicago,IL,60621,41.784867,-87.643054,0,0,1,0,0
+Catholic Charities of Archdioces - MO Buttercup Playlot Park,4901 N Sheridan Rd,Chicago,IL,60640,41.971583,-87.654858,0,0,1,0,0
+Catholic Charities of Archdioces - MO Broncho Billy Playlot Park,4437 N Magnolia Ave,Chicago,IL,60640,41.96282,-87.660959,0,0,1,0,0
+Catholic Charities of Archdioces - Fellowship Congo Square Theatre Teens for Action,4543 S Princeton Ave,Chicago,IL,60609,41.811398,-87.632994,0,1,1,0,0
+Catholic Charities of Archdioces - MO Chestnut Playlot,7015 S Dante Ave,Chicago,IL,60637,41.767316,-87.589173,0,0,1,0,0
+Catholic Charities of Archdioces - Sinai Community Institute,2653 W. Ogden Ave,Chicago,IL,60608,41.861779,-87.692947,0,0,1,0,0
+Catholic Charities of Archdioces - Universidad Popular,2801 S. Hamlin,Chicago,IL,60623,41.840485,-87.719343,0,1,1,0,0
+Catholic Charities of Archdioces - Corazon A Corazon,8235 South Shore Dr,Chicago,IL,60617,41.745007,-87.547443,0,1,1,0,0
+Catholic Charities of Archdioces - MO-Garfield PArk Playlot,200 N. Homan,Chicago,IL,60624,41.884716,-87.711122,0,0,1,0,0
+Catholic Charities of Archdioces - Centro Romero,6216 N. Clark St,Chicago,IL,60660,41.994894,-87.670441,0,0,1,0,0
+Catholic Charities of Archdioces - MO-St.Gall,5500 S. Kedzie Ave,Chicago,IL,60622,41.79349,-87.703575,0,0,1,0,0
+Catholic Charities of Archdioces - SE: Autin Town Hall,5610 W. Lake St,Chicago,IL,60644,41.88835,-87.765806,0,0,1,0,0
+Catholic Charities of Archdioces - SE:Onward Neighborhood House,2800 N. Lotus,Chicago,IL,60641,41.931324,-87.762578,0,0,1,0,0
+Catholic Charities of Archdioces - SE:Garfield Park Community Center,4400 W. Fulton,Chicago,IL,60624,41.885384,-87.735617,0,0,1,0,0
+Catholic Charities of Archdioces - SE: Howard Area Community Center,7648 N. Paulina,Chicago,IL,60626,42.020803,-87.673411,0,0,1,0,0
+Catholic Charities of Archdioces - SE: Mary Crane,4900 W. Thomas,Chicago,IL,60651,41.900499,-87.748377,0,0,1,0,0
+Catholic Charities of Archdioces - SE: New Life Centers,2501 N. Nordica Ave,Chicago,IL,60707,41.925598,-87.802267,0,0,0,1,0
+Catholic Charities of Archdioces - SE: Project Education Plus,857 W. Cleveland Ave,Chicago,IL,60610,41.89828,-87.64053,0,0,1,0,0
+Catholic Charities of Archdioces - SE: West Humboldt Park Development Council,900 N. Springfield Ave,Chicago,IL,60651,41.897331,-87.723925,0,0,1,1,0
+Catholic Charities of Archdioces - SE: 1st Ward Back to School Health & Resource Fair,1911 N. California Ave,Chicago,IL,60647,41.916125,-87.696784,0,0,1,0,0
+Catholic Charities of Archdioces - SE: Chinese Mutual Aid Association,5000 N. Kenmore Ave,Chicago,IL,60640,41.973497,-87.656476,0,0,0,1,0
+Catholic Charities of Archdioces - SE: Local Motions,1654 N. Mobile Ave,Chicago,IL,60639,41.910827,-87.783859,0,0,1,0,0
+Catholic Charities of Archdioces - Building A Future,357 E 79th St,Chicago,IL,60619,41.750925,-87.615848,0,1,1,0,0
+Catholic Charities of Archdioces - SE: Brighton Park Neighborhood Council,4250 S Rockwell St,Chicago,IL,60632,41.815917,-87.689549,1,0,1,0,0
+Catholic Charities of Archdioces - SE: SouthWest Organization Project,6000 S. Rockwell St,Chicago,IL,60629,41.784533,-87.689019,0,0,1,1,0
+Catholic Charities of Archdioces - SE: Network of Woodlawn Public Safety Alliance,1500 E. 65th St,Chicago,IL,60637,41.776946,-87.588883,0,0,1,0,0
+Catholic Charities of Archdioces - SE: Claretian Associates,8800 S. Burley,Chicago,IL,60617,41.734762,-87.546525,0,0,1,0,0
+Catholic Charities of Archdioces - generations Community Development Corporation,3823 South Indiana Avenue,Chicago,IL,60653,41.824741,-87.621258,0,1,1,0,0
+Catholic Charities of Archdioces - SE: The Community Builders,3700 S. Langley Ave,Chicago,IL,60653,41.826982,-87.609923,0,0,1,1,0
+Catholic Charities of Archdioces - SE: Illinois Youth Rugby Association,6300 S. Peoria Ave,Chicago,IL,60621,41.779727,-87.647226,0,0,1,1,0
+Catholic Charities of Archdioces - SE: La Casa Norte,1600 N. Drake,Chicago,IL,60647,41.91008,-87.714947,0,0,1,1,0
+Catholic Charities of Archdioces - Hyde Park School,6220 S. Stony Island,Chicago,IL,60637,41.782144,-87.587237,0,1,1,0,0
+Catholic Charities of Archdioces - LightHouse Gospel MBC,3004 W. Lexington St,Chicago,IL,60612,41.872185,-87.701173,0,1,1,0,0
+Catholic Charities of Archdioces - universal city apartments,9510 s constance,chicago,IL,60623,41.721448,-87.579602,0,0,1,0,0
+Catholic Charities of Archdioces - SE. Casa Catalina,4537 S Ashland Ave,Chicago,IL,60609,41.811183,-87.664698,0,0,1,0,0
+Catholic Charities of Archdioces - Baptist Church Without A Spot or Wrinkle,9322 S Halsted St,Chicago,IL,60620,41.724106,-87.643719,0,0,1,0,0
+Catholic Charities of Archdioces - Carter Boys & Girls Club At Coppin Church,5627 S Michigan Ave,Chicago,IL,60637,41.792052,-87.6219,0,1,1,0,0
+Catholic Charities of Archdioces - Paul G. Stewart Center,450 E 40th St,Chicago,IL,60653,41.821088,-87.616307,0,1,1,0,0
+Catholic Charities of Archdioces - MO-Maria Kaupas Center,2740 W 68th St,Chicago,IL,60629,41.770933,-87.692376,0,0,1,0,0
+Catholic Charities of Archdioces - MO-Our Lady of Snows,4810 S Leamington Ave,Chicago,IL,60638,41.805105,-87.752135,0,0,1,0,0
+Catholic Charities of Archdioces - MO-St. Rita Of Cascia,6243 S Fairfield Ave,Chicago,IL,60629,41.779575,-87.691573,0,0,1,0,0
+Catholic Charities of Archdioces - MO-St.Clare Of Monteflaco,5443 S Washtenaw Ave,Chicago,IL,60632,41.7945,-87.691063,0,0,1,0,0
+Catholic Charities of Archdioces - SE. Gresham Elementary School,8524 S Green St,Chicago,IL,60620,41.738753,-87.64534,0,0,1,0,0
+Catholic Charities of Archdioces - SE.Northwest Side Housing Center,5300 W Oakdale Ave,Chicago,IL,60641,41.934385,-87.759341,0,0,1,0,0
+Catholic Charities of Archdioces - SE. New Life Community Center,3542 W Sunnyside Ave,Chicago,IL,60625,41.963119,-87.717088,0,0,1,0,0
