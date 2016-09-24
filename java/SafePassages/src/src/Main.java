@@ -10,10 +10,7 @@ import java.sql.SQLException;
 import java.util.Properties;
 
 import org.eclipse.jetty.server.Server;
-import web.DepositoryHandler;
-import web.MetricedDepositoryHandler;
-import web.NearbyRepositoriesHandler;
-import web.SchoolNameHandler;
+import web.*;
 
 public class Main {
     public static void main(String[] args){
@@ -46,7 +43,7 @@ public class Main {
         schoolHandler.setHandler(new SchoolNameHandler(safePassages));
 
         ContextHandler depositoryHandler = new ContextHandler();
-        depositoryHandler.setContextPath("/depositories");
+        depositoryHandler.setContextPath("/vanillaDepositories");
         depositoryHandler.setHandler(new DepositoryHandler(safePassages));
 
         ContextHandler nearbyDepositoriesHandler = new ContextHandler();
@@ -54,8 +51,12 @@ public class Main {
         nearbyDepositoriesHandler.setHandler(new NearbyRepositoriesHandler(safePassages));
 
         ContextHandler metricedDepositoryHandler = new ContextHandler();
-        metricedDepositoryHandler.setContextPath("/metricedDepositories");
+        metricedDepositoryHandler.setContextPath("/depositories");
         metricedDepositoryHandler.setHandler(new MetricedDepositoryHandler(safePassages));
+
+        ContextHandler crimeHandler = new ContextHandler();
+        crimeHandler.setContextPath("/crimes");
+        crimeHandler.setHandler(new CrimeHandler(safePassages));
 
         ContextHandlerCollection handlerCollection = new ContextHandlerCollection();
         handlerCollection.setHandlers(
@@ -63,7 +64,8 @@ public class Main {
                         schoolHandler,
                         depositoryHandler,
                         nearbyDepositoriesHandler,
-                        metricedDepositoryHandler
+                        metricedDepositoryHandler,
+                        crimeHandler
                 });
 
         server.setHandler(handlerCollection);

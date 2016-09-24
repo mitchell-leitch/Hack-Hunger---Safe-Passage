@@ -1,9 +1,6 @@
 package query;
 
-import entity.Depository;
-import entity.MetricedDepository;
-import entity.School;
-import entity.SchoolDepositoryPair;
+import entity.*;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -51,6 +48,33 @@ public class SafePassages {
             " order by ST_DISTANCE(subd.geom, subsp.geom) \n" +
             " limit 1\n" +
             " )";
+
+    private static final String SELECT_CRIMES = "select crimetime, st_x(geom), st_y(geom) from crimes";
+
+    public List<Crime> getCrimes(){
+        try {
+            List<Crime> crimes = new ArrayList<>();
+
+            Statement statement = connection.createStatement();
+
+            ResultSet rs = statement.executeQuery(SELECT_CRIMES);
+            while (rs.next()) {
+                Crime crime = new Crime();
+
+                crime.setxCoordinate(rs.getDouble("st_x"));
+                crime.setyCoordinate(rs.getDouble("st_y"));
+                crime.setCrimeTime(rs.getString("crimetime"));
+
+                crimes.add(crime);
+            }
+
+            return crimes;
+        } catch (SQLException se){
+            System.out.println("Error reading crimes");
+            se.printStackTrace();
+            throw new RuntimeException(se);
+        }
+    }
 
     public List<School> getSchoolNames()  {
         try {
